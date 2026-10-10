@@ -100,7 +100,10 @@ export function ekraniGuncelle() {
         `;
     }
 
-    let soruIcerigi = uyariGorseli + aktifSoru.soruMetni
+    // JSON'daki \n ifadelerini HTML satır atlama etiketine (<br>) çevirip etrafına boşluk ekliyoruz
+    let temizSoruMetni = aktifSoru.soruMetni.replace(/\\n/g, ' <br> ').replace(/\n/g, ' <br> ');
+
+    let soruIcerigi = uyariGorseli + temizSoruMetni
         .split(' ')
         .map(kelime => `<span class="tiklanabilir-kelime">${kelime}</span>`)
         .join(' ');
@@ -607,8 +610,11 @@ export function sinavSonucunuHesapla() {
         matematik: { ad: "Matematik", d: 0, y: 0, b: 0 },
         tarih: { ad: "Tarih", d: 0, y: 0, b: 0 },
         cografya: { ad: "Coğrafya", d: 0, y: 0, b: 0 },
-        vatandaslik: { ad: "Vatandaşlık", d: 0, y: 0, b: 0 },
-        guncel: { ad: "Güncel Bilgiler", d: 0, y: 0, b: 0 }
+        fizik: { ad: "Fizik", d: 0, y: 0, b: 0 },
+        kimya: { ad: "Kimya", d: 0, y: 0, b: 0 },
+        biyoloji: { ad: "Biyoloji", d: 0, y: 0, b: 0 },
+        edebiyat: { ad: "Edebiyat", d: 0, y: 0, b: 0 },
+        ingilizce: { ad: "İngilizce", d: 0, y: 0, b: 0 }
     };
 
     let toplamD = 0, toplamY = 0, toplamB = 0;
@@ -685,8 +691,11 @@ export function adminSoruAnalizPaneliniKur() {
         matematik: "MATEMATİK",
         tarih: "TARİH",
         cografya: "COĞRAFYA",
-        vatandaslik: "VATANDAŞLIK",
-        guncel: "GÜNCEL BİLGİLER"
+        fizik: "FİZİK",
+        kimya: "KİMYA",
+        biyoloji: "BİYOLOJİ",
+        edebiyat: "EDEBİYAT",
+        ingilizce: "İNGİLİZCE"
     };
 
     let html = '';

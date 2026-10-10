@@ -74,7 +74,7 @@ if (aktifKonu) {
 }
 
 export async function tumSorulariYukle() {
-    const dersler = ['tarih', 'cografya', 'matematik', 'turkce', 'vatandaslik', 'guncel'];
+    const dersler = ['tarih', 'cografya', 'matematik', 'turkce', 'fizik', 'kimya', 'biyoloji', 'edebiyat', 'ingilizce'];
     let tumSorular = [];
 
     for (const ders of dersler) {
