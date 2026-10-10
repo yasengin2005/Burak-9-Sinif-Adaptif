@@ -1,0 +1,131 @@
+{
+  "rasyonel_sayilar": {
+    "Dört İşlem Kuralı": "Toplama ve çıkarma işlemlerinde paydalar mutlaka eşitlenir. Çarpmada paylar kendi arasında, paydalar kendi arasında çarpılır. Bölmede ilk kesir aynen kalır, ikinci kesir ters çevrilerek çarpılır.",
+    "Sıralama Kuralları": "Pozitif rasyonel sayılarda; paydalar eşitse payı büyük olan, paylar eşitse paydası küçük olan daha büyüktür. Negatif sayılarda ise sıralama yönü tam tersine döner.",
+    "Kesir Çeşitleri": "Payı paydasından mutlak değerce küçük olan kesirlere basit kesir; payı paydasından büyük veya eşit olan kesirlere bileşik kesir denir."
+  },
+  "ondalikli_sayilar": {
+    "Devirli Ondalık Sayı Açılımı": "Formül: (Sayının Tamamı - Devretmeyen Kısım) / (Virgülden sonraki devreden rakam sayısı kadar 9, devretmeyen rakam sayısı kadar 0 yazılır).",
+    "Rasyonel Dönüşüm ve Virgül Kaydırma": "Ondalık sayılarda bölme işlemi yaparken, pay ve paydadan eşit sayıda virgül sağa kaydırılarak sayılar genişletilir ve işlem kolaylaştırılır."
+  },
+  "denklem_cozme": {
+    "Birinci Dereceden Denklemler": "ax + b = 0 denkleminde bilinmeyen yalnız bırakılır: x = -b / a olarak bulunur.",
+    "Çözüm Kümesi Durumları": "ax + b = cx + d denkleminde; a = c ve b = d ise ÇK = R (Sonsuz çözüm) olur. Eğer a = c ve b != d ise ÇK = Boş Küme (Çözüm yok) olur.",
+    "Yok Etme ve Yerine Koyma Metodu": "İki bilinmeyenli denklem sistemlerinde, değişkenlerden birinin katsayıları eşit ve zıt işaretli yapılarak taraf tarafa toplama yoluyla değişken yok edilir."
+  },
+  "uslu_sayilar": {
+    "Tabanlar Aynıysa İşlemler": "Tabanları aynı olan üslü sayıların çarpımında üsler toplanır (a^x * a^y = a^(x+y)); bölme işleminde ise payın üssünden paydanın üssü çıkarılır.",
+    "Üssün Üssü ve Negatif Üs": "Üssün üssü alınırken üsler çarpılır ((a^x)^y = a^(x*y)). Negatif üs, tabandaki sayıyı ters çevirir (a^(-n) = (1/a)^n)."
+  },
+  "koklu_sayilar": {
+    "Üslü Sayı Biçimine Çevirme": "Her köklü sayı bir üslü sayıdır: n. dereceden kök(a^m) = a^(m/n) şeklinde ifade edilir.",
+    "Kök Dışına Çıkarma Kuralı": "n. dereceden kök(a^n) ifadesinde; n tek sayı ise ifade dışarıya aynen 'a' olarak çıkar, n çift sayı ise mutlak değer içinde '|a|' olarak çıkar.",
+    "Eşlenik Mantığı": "Paydayı kökten kurtarmak için pay ve payda köklü ifadenin eşleniği ile çarpılır. kök(a) - kök(b) ifadesinin eşleniği kök(a) + kök(b)'dir."
+  },
+  "temel_kavramlar": {
+    "Sayı Kümeleri": "N: Doğal Sayılar (0'dan başlar), Z: Tam Sayılar, Q: Rasyonel Sayılar, Q': İrrasyonel Sayılar (pi, kök 2 vb.), R: Reel (Gerçek) Sayılar kümesidir.",
+    "Asal Sayılar ve Aralarında Asallık": "1 ve kendisinden başka böleni olmayan 1'den büyük sayılardır. En küçük ve tek çift asal sayı 2'dir. Ortak böleni sadece 1 olan sayılar ise aralarında asaldır.",
+    "Çarpım ve Toplam Optimizasyonu": "Toplamları sabit olan iki doğal sayının çarpımının en büyük olması için sayılar birbirine en yakın (mümkünse eşit), en küçük olması için en uzak seçilmelidir."
+  },
+  "tek_cift_sayilar": {
+    "Temel İşlem Kuralları": "Tek (T) ve Çift (Ç) sayılarda; T +/- T = Ç, T +/- Ç = T, Ç +/- Ç = Ç kuralları geçerlidir.",
+    "Çarpma ve Üs Özelliği": "Çarpma işleminde çarpanlardan en az birinin çift olması sonucu daima çift yapar (T * T = T, T * Ç = Ç). Pozitif tam sayı olan üsler teklik ve çiftliği etkilemez (T^n = T, Ç^n = Ç)."
+  },
+  "ardisik_sayilar": {
+    "Terim Sayısı Formülü": "Terim Sayısı = [(Son Terim - İlk Terim) / Artış Miktarı] + 1",
+    "Gauss Toplam Formülü": "Ardışık toplam = Terim Sayısı * [(İlk Terim + Son Terim) / 2] veya kısa yoldan (Ortanca Terim * Terim Sayısı) formülüyle bulunur."
+  },
+  "faktoriyel": {
+    "Tanım ve Özel Durumlar": "1'den n'e kadar olan ardışık tam sayıların çarpımıdır (n!). Özel olarak 0! = 1 ve 1! = 1 olarak kabul edilir.",
+    "Sadeleştirme ve Sondaki Sıfırlar": "Büyük olan faktöriyel, küçük olanın cinsinden açılıp sadeleştirilebilir (n! = n * (n-1)!). Bir faktöriyelin sonundaki sıfır sayısını bulmak için sayı sürekli 5'e bölünür ve bölümler toplanır."
+  },
+  "basamak_analizi": {
+    "Sayı Değeri ve Basamak Değeri": "Sayı değeri rakamın kendi değeridir. Basamak değeri ise rakamın bulunduğu basamağın çarpanıyla (1, 10, 100 vb.) hesaplanan değeridir.",
+    "Çözümleme Mantığı": "abc üç basamaklı sayısı basamaklarına ayrılırken 100a + 10b + c şeklinde çözümlenerek işleme alınır."
+  },
+  "bolme_bolunabilme": {
+    "Bölme Özdeşliği ve Kalan Kuralı": "A = B * C + K işleminde kalan (K), bölenden (B) daima küçük ve sıfıra eşit ya da büyük olmak zorundadır (0 <= K < B). Kalan bölenden büyük olamaz.",
+    "Son Basamak Odaklı Kurallar": "2 ile bölünebilmede son rakam çift; 5 ile bölünebilmede son rakam 0 veya 5; 10 ile bölünebilmede son rakam sadece 0 olmalıdır.",
+    "Rakam Toplamı Odaklı Kurallar": "Rakamlarının toplamı 3'ün katı olan sayılar 3'e, 9'un katı olan sayılar ise 9'a tam bölünür.",
+    "Son İki ve Üç Basamak Kuralları": "Son iki basamağı 00 veya 4'ün katı olan sayılar 4'e; son üç basamağı 000 veya 8'in katı olan sayılar 8'e tam bölünür."
+  },
+  "ebob_ekok": {
+    "EBOB ve EKOK Özellikleri": "İki sayının çarpımı, o sayıların EBOB ve EKOK'larının çarpımına eşittir (A * B = EBOB * EKOK). Aralarında asal sayıların EBOB'u 1, EKOK'u ise çarpımlarıdır.",
+    "Problem Çözüm Ayrımı": "Büyük parçalardan (bütünden) daha küçük eşit parçalar elde ediliyorsa EBOB; küçük parçalar birleştirilerek daha büyük bir bütün oluşturuluyorsa EKOK kullanılır."
+  },
+  "poz_neg_esitsizlik": {
+    "Eşitsizlik Yön Değiştirme Kuralı": "Bir eşitsizliğin her iki tarafı negatif bir sayı ile çarpılır veya bölünürse eşitsizlik kesinlikle yön değiştirir (< işareti > olur).",
+    "Taraf Tarafa Toplama": "Aynı yönlü eşitsizlikler taraf tarafa toplanabilir ancak eşitsizliklerde taraf tarafa çıkarma veya çarpma işlemi doğrudan yapılamaz."
+  },
+  "mutlak_deger": {
+    "Tanım ve Dışarı Çıkarma": "Bir sayının sayı doğrusunda sıfıra olan uzaklığıdır ve asla negatif olamaz (|x| >= 0). Mutlak değerin içi pozitifse aynen, negatifse önüne eksi (-) alarak pozitifleşip çıkar.",
+    "Mutlak Değerli Eşitsizlikler": "|x| < a ise ifade -a < x < a şeklinde açılır. |x| > a ise x > a veya x < -a şeklinde iki ayrı durumda incelenir."
+  },
+  "oran_oranti": {
+    "Orantı Sabiti, Doğru ve Ters Orantı": "İki veya daha fazla oranın eşitliğine orantı denir ve 'k' sabitine eşittir. Doğru orantılı çokluklar bölüm (x / y = k), ters orantılı çokluklar çarpım (x * y = k) durumundadır.",
+    "Aritmetik ve Geometrik Ortalama": "Aritmetik Ortalama = Sayıların Toplamı / Sayı Adedi. İki sayının Geometrik Ortalaması = kök(A * B) formülüyle hesaplanır."
+  },
+  "carpan": {
+    "İki Kare Farkı ve Tam Kare": "En sık sorulan iki özdeşliktir: İki kare farkı: a^2 - b^2 = (a-b) * (a+b). Tam kare açılımı: (a+b)^2 = a^2 + 2ab + b^2 şeklindedir.",
+    "Üç Terimli İfadeler": "x^2 + bx + c ifadesini çarpanlarına ayırırken; çarpımları c'yi, toplamları b'yi veren iki sayı (m ve n) bulunarak (x+m)*(x+n) şeklinde yazılır."
+  },
+  "karma_prob": {
+    "Hız ve Yaş Problemleri": "Yol = Hız * Zaman (x = v * t). Zıt yönlü hareketlerde hızlar toplanır, aynı yönlü hareketlerde hızlar çıkarılır. İki kişinin yaş farkı yıllar geçse de asla değişmez.",
+    "Yüzde ve Kar-Zarar Problemleri": "Kar veya zarar oranları, soruda aksi belirtilmediği sürece her zaman maliyet (alış fiyatı) üzerinden hesaplanır. Kar = Satış - Maliyet.",
+    "İşçi ve Karışım Problemleri": "Bir işçi işi tek başına A günde, diğeri B günde bitiriyorsa ikisi birlikte t günde: (1/A + 1/B) * t = 1 formülüyle bitirir. Karışım Oranı = (Saf Madde / Toplam Karışım) * 100."
+  },
+  "grafik": {
+    "Sütun ve Çizgi Grafiği": "Sütun grafiği veriler arasındaki miktarsal karşılaştırmalar için; çizgi grafiği ise verilerin zaman içindeki sürekli artış ve azalış eğilimlerini göstermek için kullanılır.",
+    "Daire Grafiği Veri Orantısı": "Tüm verilerin toplamı dairenin tamamı olan 360 dereceye eşitlenerek her verinin payına düşen merkez açı doğru orantıyla hesaplanır."
+  },
+  "kumeler": {
+    "Alt Küme Sayısı": "n elemanlı bir kümenin alt küme sayısı 2^n, kendisi hariç alt kümelerinin sayısı (özalt küme sayısı) ise 2^n - 1 formülüyle hesaplanır.",
+    "Kümelerde Birleşim Formülü": "A ve B kümelerinin birleşiminin eleman sayısı: s(A birleşim B) = s(A) + s(B) - s(A kesişim B) şeklindedir."
+  },
+  "fonksiyonlar": {
+    "Fonksiyon Olma Şartı": "Tanım kümesindeki her elemanın değer kümesinde yalnız ve ancak bir karşılığı olmalıdır. Tanım kümesinde açıkta eleman kalamaz.",
+    "Ters Fonksiyon Kuralı": "f(a) = b ise fonksiyonun tersinde f^-1(b) = a olur. Doğrusal bir fonksiyon olan f(x) = ax + b ifadesinin tersi f^-1(x) = (x - b) / a olarak bulunur."
+  },
+  "islem": {
+    "Birim Eleman ve Ters Eleman": "Özel tanımlı bir işlemde etkisiz (birim) eleman 'e' olmak üzere a * e = a şartını sağlar. Bir elemanın kendisi ile tersinin işleme girmesi birim elemanı verir (a * a^-1 = e)."
+  },
+  "pko": {
+    "Permütasyon ve Kombinasyon Ayrımı": "Permütasyon nesnelerin kendi aralarındaki 'sıralanması' ve dizilimidir (P(n,r) = n! / (n-r)!). Kombinasyon ise sıra gözetmeksizin yapılan 'seçim' ve gruplamadır (C(n,r) = n! / [r! * (n-r)!]).",
+    "Basit Olasılık Formülü": "Bir olayın gerçekleşme olasılığı = İstenen Durum Sayısı / Tüm (Evrensel) Durumların Sayısı formülüyle hesaplanır. Olasılık daima 0 ile 1 arasındadır."
+  },
+  "ozel_sayilar": {
+    "Mükemmel Sayı Tanımı": "Kendisi hariç tüm pozitif bölenlerinin toplamı kendisine eşit olan sayılardır. En bilinen örneği 6'dır (1 + 2 + 3 = 6).",
+    "Palindromik Sayı Tanımı": "Baştan ve sondan okunuşları aynı olan sayılardır (Örn: 121, 5445, 90009)."
+  },
+  "sayisal_mantik": {
+    "Akıl Yürütme ve Örüntüler": "Formüle dayalı olmayan; şekil yeteneği, tablo ve grafik okuma, küp açılımları ve belirli periyotlarla tekrar eden örüntülerin mantıksal takibine dayalı soru tipleridir."
+  },
+  "acilar": {
+    "Doğruda Açılar ve Kurallar": "Paralel iki doğru arasında kalan açılarda Z kuralı (iç ters açılar eşittir), M kuralı ve U kuralı (iç açılar toplamı 180 derecedir) sıklıkla kullanılır.",
+    "Tümler ve Bütünler Açı": "Ölçüleri toplamı 90 derece olan iki açıya tümler açılar, ölçüleri toplamı 180 derece olan iki açıya ise bütünler açılar denir."
+  },
+  "ucgenler": {
+    "Üçgen Eşitsizliği": "Üçgende herhangi bir kenar uzunluğu, diğer iki kenarın toplamından küçük, farklarının mutlak değerinden ise büyük olmak zorundadır (|b-c| < a < b+c).",
+    "Dik Üçgen Bağıntıları (Pisagor ve Öklid)": "Pisagor: a^2 + b^2 = c^2. Öklid bağıntısı ise dik açıdan hipotenüse dik inildiğinde geçerlidir ve en bilineni h^2 = p * k formülüdür.",
+    "Üçgende Yardımcı Elemanlar": "Açıortay açıyı iki eşit parçaya böler. Kenarortay kenarı iki eşit parçaya böler ve kenarortayların kesim noktası (Ağırlık Merkezi) köşeye 2, kenara 1 birim uzaklıktadır (2k'ya k)."
+  },
+  "dortgenler": {
+    "İç ve Dış Açılar Toplamı": "Tüm konveks dörtgenlerin iç açılarının toplamı da dış açılarının toplamı da daima 360 derecedir.",
+    "Özel Dörtgen Alanları": "Yamuk Alanı = [(Alt Taban + Üst Taban) / 2] * Yükseklik. Köşegenleri dik kesişen dörtgenlerin (Eşkenar dörtgen, Kare vb.) alanı köşegenler çarpımının yarısıdır."
+  },
+  "cokgenler": {
+    "Açı Formülleri": "n kenarlı bir düzgün çokgenin bir dış açısı 360 / n formülüyle bulunur. Bir iç açısı ise 180 - Dış Açı formülüyle hesaplanır. İç açılar toplamı (n-2) * 180'dir."
+  },
+  "cember_daire": {
+    "Çevre ve Alan Formülleri": "r yarıçaplı bir çemberin Çevresi = 2 * pi * r formülüyle, Dairenin Alanı ise pi * r^2 formülüyle hesaplanır.",
+    "Merkez ve Çevre Açı Ayrımı": "Köşesi merkezde olan açı gördüğü yayın ölçüsüne eşittir. Köşesi çemberin üzerinde olan çevre açı ise gördüğü yayın ölçüsünün yarısına eşittir. Çapı gören çevre açı 90 derecedir."
+  },
+  "kati_cisim": {
+    "Prizma ve Piramit Hacimleri": "Tüm dik prizmaların hacmi (Taban Alanı * Yükseklik) formülüyle bulunur. Piramit ve koni gibi tepesi sivri cisimlerin hacmi ise prizma hacminin üçte biridir ((Taban Alanı * Yükseklik) / 3).",
+    "Küre Formülleri": "r yarıçaplı bir kürenin Yüzey Alanı = 4 * pi * r^2 formülüyle, Kürenin Hacmi ise (4/3) * pi * r^3 formülüyle bulunur."
+  },
+  "analitik_geo": {
+    "Eğim Mantığı": "Koordinat düzleminde iki noktası bilinen doğrunun eğimi m = (y2 - y1) / (x2 - x1) formülüyle bulunur. Sağa yatık doğruların eğimi pozitif, sola yatıkların negatiftir.",
+    "Paralel ve Dik Doğrular": "Paralel doğruların eğimleri birbirine eşittir (m1 = m2). Dik kesişen doğruların eğimleri çarpımı ise her zaman -1'e eşittir (m1 * m2 = -1)."
+  }
+}

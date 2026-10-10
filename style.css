@@ -1,0 +1,425 @@
+/* GENEL AYARLAR */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.fade-in {
+    animation: fadeIn 0.4s ease-in-out;
+}
+/* Header alanını ortalamak ve arka plan vermek için (isteğe bağlı) */
+.site-header {
+    position: absolute; /* Sayfanın normal akışından çıkarır, diğer öğeleri (tema butonu, login paneli) aşağı itmez */
+    top: 65px;
+    left: 0;
+    width: 100%;
+    height: 15vh; /* Ekranın dikey yüksekliğinin tam %15'i */
+    background-color: #0b1426; /* Resmin kenarlarında boşluk kalırsa sırıtmasın diye logonun kendi lacivert rengi */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 0; /* Eğer temanın veya butonların logoyla çakışmasını istemiyorsan bunu ayarlayabilirsin */
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+    /* Resmi 15vh'lik alana tam yayar. */
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* SORU METNİ VE BUTONLAR */
+#soruMetni {
+    white-space: pre-wrap; 
+    color: var(--bs-body-color);
+}
+
+.hover-lift {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.hover-lift:hover {
+    transform: translateY(-3px);
+    border-color: #0d6efd !important;
+}
+
+.secenek-btn {
+    transition: all 0.2s ease;
+    background-color: var(--bs-secondary-bg);
+    color: var(--bs-body-color);
+    border-color: var(--bs-border-color);
+}
+
+.secenek-btn:hover:not(:disabled) {
+    background-color: var(--bs-tertiary-bg);
+    border-color: #adb5bd;
+}
+
+/* JS İLE EKLENEN DOĞRU/YANLIŞ SINIFLARI */
+.secenek-btn.dogru {
+    background-color: #d1e7dd !important;
+    border-color: #198754 !important;
+    color: #0f5132 !important;
+    font-weight: bold;
+}
+
+.secenek-btn.yanlis {
+    background-color: #f8d7da !important;
+    border-color: #dc3545 !important;
+    color: #842029 !important;
+}
+
+/* SONUÇ YAZILARI */
+.sonuc-metni {
+    text-align: center;
+    font-weight: bold;
+    min-height: 35px; /* Ekran zıplamasını engeller */
+}
+.yazi-dogru { color: #198754; }
+.yazi-yanlis { color: #dc3545; }
+.yazi-bos { color: #fd7e14; }
+
+/* MODAL OVERLAY (Özel Yapı) */
+.modal-overlay {
+    position: fixed; 
+    z-index: 1050; 
+    left: 0; top: 0; 
+    width: 100%; height: 100%; 
+    background-color: rgba(0,0,0,0.6); 
+    backdrop-filter: blur(3px);
+    display: flex; /* JS bunu kontrol ediyor */
+    justify-content: center;
+    align-items: center;
+}
+
+/* İSTATİSTİK BARI VE ÖZEL STAT RENKLERİ */
+.alt-istatistik-bar {
+    position: fixed;
+    bottom: 75px;
+    right: 20px;
+    background: rgba(33, 37, 41, 0.95);
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 50px;
+    font-size: 15px;
+    z-index: 9999;
+}
+.stat-d { color: #75b798; }
+.stat-y { color: #ea868f; }
+.stat-b { color: #ffc107; }
+
+/* ADMİN TABLOSU (Bootstrap sınıfları ile destekleniyor) */
+#itirazListesi table { width: 100%; border-collapse: collapse; }
+#itirazListesi th, #itirazListesi td { padding: 12px; border-bottom: 1px solid var(--bs-border-color); }
+#itirazListesi button { background: #dc3545; color: white; border: none; padding: 5px 12px; border-radius: 4px; cursor: pointer;}
+#itirazListesi button:hover { background: #c82333; }
+
+/* --- DARK THEME (GECE MODU) KONTROLLERİ --- */
+body.dark-theme {
+    background-color: #121212 !important;
+    color: #e0e0e0;
+}
+
+body.dark-theme .card {
+    background-color: #1e1e1e;
+    border: 1px solid #333 !important;
+}
+
+body.dark-theme .card-header, body.dark-theme .border-bottom, body.dark-theme .border-top {
+    border-color: #333 !important;
+}
+
+body.dark-theme .secenek-btn, body.dark-theme .ders-sec-btn, body.dark-theme input {
+    background-color: #2b2b2b !important;
+    color: #e0e0e0 !important;
+    border-color: #444 !important;
+}
+
+body.dark-theme .secenek-btn:hover:not(:disabled), body.dark-theme .ders-sec-btn:hover {
+    background-color: #3a3a3a !important;
+}
+
+body.dark-theme #soruMetni, body.dark-theme h4, body.dark-theme h5 {
+    color: #e0e0e0 !important;
+}
+
+body.dark-theme .btn-outline-secondary {
+    color: #e0e0e0;
+    border-color: #666;
+}
+/* Alt buton grubu için boşluk ayarı */
+.btn-group, .d-flex.gap-2 {
+    margin: 0 5px;
+}
+/* Sağ tıklandığında aktif olacak sınıf */
+.secenek-btn.elenmis {
+    text-decoration: line-through;
+    opacity: 0.5;
+    background-color: #dee2e6;
+    border-color: #adb5bd;
+    cursor: default;
+}
+
+#gunlukIstatistikPaneli {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 12px 18px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    font-size: 15px;
+    font-weight: bold;
+    z-index: 9999;
+    transition: all 0.3s ease;
+}
+
+/* Karanlık tema için opsiyonel renk değişimi */
+body.dark-theme #gunlukIstatistikPaneli {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+}
+#renkPaletiKutusu {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 9999;
+}
+
+#arkaplanRenkSecici {
+    width: 35px;
+    height: 35px;
+    padding: 0;
+    border: none;
+    border-radius: 50%; /* Kusursuz bir daire yapar */
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    overflow: hidden;
+    background-color: transparent;
+}
+
+/* Tarayıcıların kendi çirkin iç kenarlıklarını gizlemek için */
+#arkaplanRenkSecici::-webkit-color-swatch-wrapper {
+    padding: 0;
+}
+#arkaplanRenkSecici::-webkit-color-swatch {
+    border: none;
+    border-radius: 50%;
+}
+#arkaplanRenkSecici::-moz-color-swatch {
+    border: none;
+    border-radius: 50%;
+}
+/* BBMA KELİME BUTONLARI */
+.bbma-btn {
+    background-color: var(--bs-info-bg-subtle);
+    color: var(--bs-info-text-emphasis);
+    border: 1px solid var(--bs-info-border-subtle);
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.bbma-btn:hover {
+    background-color: #0dcaf0;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+body.dark-theme .bbma-btn {
+    background-color: #1a3a4b;
+    color: #4dd4fc;
+    border-color: #154c60;
+}
+body.dark-theme .bbma-btn:hover {
+    background-color: #4dd4fc;
+    color: #000;
+}
+
+/* --- TIKLANABİLİR SORU KELİMELERİ --- */
+.tiklanabilir-kelime {
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background-color 0.1s, color 0.1s;
+}
+
+.tiklanabilir-kelime:hover {
+    background-color: rgba(220, 53, 69, 0.1); /* Hafif kırmızı arkaplan efekti */
+}
+
+/* Kelimeye tıklandığında eklenecek vurgu sınıfı */
+.vurgulu-kelime {
+    color: #dc3545 !important; /* Bootstrap Kırmızı (Danger) */
+    font-weight: bold !important;
+}
+
+body.dark-theme .vurgulu-kelime {
+    color: #ff6b7a !important; /* Gece modunda daha okunabilir parlak kırmızı */
+}
+#kavramCevapAlani {
+    white-space: pre-wrap;
+}
+
+/* Ders Seçim Ekranı - Mobil Uygulama Deneyimi İçin Modern Butonlar */
+.ders-sec-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px; /* Yüksekliği belirgin şekilde artırdık */
+    width: 100%; /* Sütun içerisine tam oturur */
+    background: #ffffff;
+    border: 1px solid #dee2e6 !important;
+    border-radius: 20px !important; /* Silindirik değil, yumuşak köşeli kart */
+    padding: 15px;
+    font-size: 1.4rem !important; /* Yazı büyüklüğü arttı */
+    font-weight:700;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* Kart derinliği */
+    transition: all 0.2s ease;
+}
+
+.row.g-3 {
+    --bs-gutter-x: 10px; /* Yatay mesafe azaldı */
+    --bs-gutter-y: 10px; /* Dikey mesafe azaldı */
+}
+
+.ders-sec-btn:active {
+    transform: scale(0.95);
+    background: #0d6efd !important;
+    color: white !important;
+}
+
+/* Soru Ekranı Seçenekleri - Daha Geniş ve Okunaklı */
+.secenekler-alani {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center; /* Yatayda ortalar */
+    width: 100%;
+}
+.secenek-btn {
+    width: 90%; /* Ekran genişliğinin %90'ını kaplar */
+    max-width: 500px; /* Çok geniş ekranlarda taşmaması için */
+    margin: 8px 0;
+    padding: 18px 25px !important; /* Yükseklik artışı için */
+    font-size: 1.2rem !important; /* Yazı büyüklüğü */
+    border-radius: 15px !important;
+    text-align: center; /* Metni buton içinde ortalar */
+}
+
+/* Soru Metnini Büyütme ve Kalınlaştırma */
+#soruMetni, 
+#soruMetniDiv,
+.soru-metni-container {
+    font-size: 1.6rem !important;
+    font-weight: 700 !important; /* Ekstra kalın istersen 800 yapabilirsin */
+    line-height: 1.5 !important;
+    color: #111827 !important; /* Tam siyah yerine okumayı kolaylaştıran çok koyu gri */
+    margin-bottom: 20px !important;
+}
+
+.card {
+    /* Cam efektini tamamen kaldırıyoruz, arka planı css değişkenine bağlıyoruz */
+    background-color: var(--card-bg-color, #ffffff) !important; 
+    /* backdrop-filter: blur(8px); satırını siliyoruz */
+    color: var(--main-text-color, #111827) !important;
+}
+
+/* --- ADMİN SORU ANALİZ PANELİ KARTLARI --- */
+.analiz-soru-kart {
+    font-size: 0.85rem;
+    border-left: 4px solid #0d6efd;
+    background-color: #f8f9fa;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.analiz-soru-kart:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.analiz-secenek {
+    font-size: 0.75rem;
+    padding: 2px 0;
+}
+
+/* Karanlık Mod Uyumu */
+body.dark-theme .analiz-soru-kart {
+    background-color: #2b2b2b;
+    border-left-color: #3b82f6;
+    color: #e0e0e0;
+}
+
+body.dark-theme .analiz-soru-kart .text-dark {
+    color: #ffffff !important;
+}
+
+/* Scrollbar (Kaydırma Çubuğu) İnceltme */
+#soruAnalizAlani .col-md-3::-webkit-scrollbar,
+#soruAnalizAlani .col-md-9::-webkit-scrollbar {
+    width: 6px;
+}
+#soruAnalizAlani .col-md-3::-webkit-scrollbar-thumb,
+#soruAnalizAlani .col-md-9::-webkit-scrollbar-thumb {
+    background-color: #adb5bd;
+    border-radius: 10px;
+}
+
+/* --- ADMİN PANELİ TAM EKRAN AYARLARI --- */
+#adminPaneli {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    z-index: 1050; /* Logoyu ve arkadaki diğer öğeleri ezip en üste çıkar */
+    overflow-y: auto;
+}
+
+/* Tam ekranda iç kaydırma çubuklarının ekranın altına kadar inmesi için */
+#soruAnalizAlani .col-md-3,
+#soruAnalizAlani .col-md-9 {
+    max-height: calc(100vh - 120px) !important;
+}
+
+/* --- ADMİN PANELİ ESNEK MENÜ AYARLARI --- */
+/* --- ADMİN PANELİ ESNEK MENÜ AYARLARI --- */
+.resizable-sidebar {
+    width: 380px; /* Başlangıç genişliğini artırdık (kısa metinler rahat sığsın) */
+    min-width: 220px; /* En fazla daralabileceği limit */
+    max-width: 50vw; /* Ekranın yarısına kadar genişletilebilir */
+    flex-shrink: 0; /* KRİTİK KOD: Flexbox'ın bu paneli otomatik ezmesini/daraltmasını engeller */
+    resize: horizontal; /* Sağa sola çekerek boyutlandırma özelliği */
+    overflow: auto; /* resize özelliğinin fareyle tutulabilmesi için şart */
+    height: calc(100vh - 120px);
+    background-color: var(--bs-body-bg);
+    border-right: 2px solid var(--bs-border-color) !important; /* Sağ çizgiyi belirginleştirdik */
+    padding-right: 5px; /* Metinlerin scrollbara yapışmasını engeller */
+}
+
+/* Sağdaki soru alanının kaydırma çubuğu ayarı */
+#analizSagGridAlani {
+    height: calc(100vh - 120px);
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+/* Sol menünün sağ alt köşesindeki boyutlandırma tutamacını belirginleştirme (Opsiyonel) */
+.resizable-sidebar::-webkit-resizer {
+    background-color: #dee2e6;
+    border-radius: 4px;
+}
+
+body.dark-theme .resizable-sidebar::-webkit-resizer {
+    background-color: #495057;
+}
