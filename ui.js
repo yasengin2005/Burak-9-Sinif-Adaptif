@@ -140,7 +140,7 @@ export function ekraniGuncelle() {
     butonlar.forEach(btn => {
         const sikHarfi = btn.getAttribute('data-secenek');
         if (aktifSoru.secenekler && aktifSoru.secenekler[sikHarfi]) {
-            btn.innerText = aktifSoru.secenekler[sikHarfi]; 
+            btn.innerHTML = aktifSoru.secenekler[sikHarfi];
             btn.style.display = 'inline-block';
         } else {
             btn.style.display = 'none';

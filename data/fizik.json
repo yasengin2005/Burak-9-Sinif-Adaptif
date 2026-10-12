@@ -18,6 +18,582 @@
 { "id": "FZK018", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Fizik eğitimi alan bir mezunun bilgi teknolojileri sektöründe yazılım geliştirme, veri bilimi ve yapay zekâ alanlarında tercih edilmesini sağlayan temel kazarım nedir?", "secenekler": { "A": "A) Bilgi Teknolojileri ve Analitik Düşünme Becerisi", "B": "B) Organik Kimya Sentez Yeteneği", "C": "C) Biyolojik Hücre Kültürü Yetiştirme", "D": "D) Tarihsel Belge Analizi Becerisi", "E": "E) Jeolojik Katman Haritalama" }, "dogruCevap": "A", "zorlukPuani": 68 }, 
 { "id": "FZK019", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Bir Makine Mühendisi adayının aldığı 'Isı Transferi' ve 'Nanoteknolojiye Giriş' derslerinin fizik bilimindeki doğrudan karşılığı olan alt dallar sırasıyla hangisinde doğru eşleştirilmiştir?", "secenekler": { "A": "A) Termodinamik – Katı Hâl Fiziği", "B": "B) Mekanik – Optik", "C": "C) Elektromanyetizma – Nükleer Fizik", "D": "D) Atom Fiziği – Mekanik", "E": "E) Optik – Yüksek Enerji ve Plazma Fiziği" }, "dogruCevap": "A", "zorlukPuani": 80 }, 
 { "id": "FZK020", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Savunma, malzeme bilimi, enerji ve biyofizik alanlarında yenilikçi teknolojilerin ve ürünlerin geliştirilmesi sürecinde kamu veya özel sektörde fizikçilerin görev aldığı çalışma alanı hangisidir?", "secenekler": { "A": "A) Ar-Ge (Araştırma - Geliştirme)", "B": "B) Muhasebe ve Finansman", "C": "C) İnsan Kaynakları Yönetimi", "D": "D) Lojistik ve Depolama", "E": "E) Halkla İlişkiler ve Tanıtım" }, "dogruCevap": "A", "zorlukPuani": 62 },
-{ "id": "FZK021", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Bir okuldaki ısınma problemini çözmek isteyen tesisatçı Ahmet Bey temelde fiziğin hangi alt dalıyla ilgili çalışma yapmalıdır?", "secenekler": { "A": "A) Nükleer fizik", "B": "B) Katıhal fiziği", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Optik" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK022", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Pikniğe giden bir aile çaylarının daha uzun süre sıcak kalması için termos kullanmaktadır.\\n\\nBu olayda fiziğin hangi alt dalından faydalanılmaktadır?", "secenekler": { "A": "A) Nükleer fizik", "B": "B) Termodinamik", "C": "C) Katıhal fiziği", "D": "D) Atom fiziği", "E": "E) Mekanik" }, "dogruCevap": "B", "zorlukPuani": 45 }, { "id": "FZK023", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nI. Uzunluk\\nII. Kütle\\nIII. Sıcaklık\\nIV. Kuvvet\\n\\nbüyüklüklerinden hangileri temel büyüklüktür?", "secenekler": { "A": "A) I ve II", "B": "B) I ve III", "C": "C) I ve IV", "D": "D) I, II ve III", "E": "E) I, II, III ve IV" }, "dogruCevap": "D", "zorlukPuani": 60 }, { "id": "FZK024", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. İvme\\nII. Yer değiştirme\\nIII. Basınç\\n\\nniceliklerinden hangileri skaler büyüklüktür?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) Yalnız III", "D": "D) I ve II", "E": "E) II ve III" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "FZK025", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nBüyüklük / Birim\\nI. Uzunluk - metre\\nII. Kütle - kilogram\\nIII. Kuvvet - newton\\nIV. Hız - metre/saniye\\n\\nfiziksel büyüklük birim eşleşmelerinin hangileri doğrudur?", "secenekler": { "A": "A) I ve II", "B": "B) I ve III", "C": "C) I, II ve III", "D": "D) I, II ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "E", "zorlukPuani": 55 }, { "id": "FZK026", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Tıp bilimi olan Radyolojide, kemiklerimizin filmi çekilirken X ışınları kullanılmaktadır.\\n\\nVerilen bilgi fiziğin hangi alt dalına aittir?", "secenekler": { "A": "A) Mekanik", "B": "B) Manyetizma", "C": "C) Termodinamik", "D": "D) Katıhal fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "E", "zorlukPuani": 60 }, { "id": "FZK027", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. Konum\\nII. Kuvvet\\nIII. Kütle\\nIV. Ağırlık\\n\\nniceliklerinden hangileri skaler büyüklüktür?", "secenekler": { "A": "A) Yalnız I", "B": "B) II ve IV", "C": "C) Yalnız III", "D": "D) I ve II", "E": "E) II ve III" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK028", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdakilerden hangisi SI birim sisteminde kullanılan bir birim değildir?", "secenekler": { "A": "A) Metre", "B": "B) Gram", "C": "C) Saniye", "D": "D) Kelvin", "E": "E) Amper" }, "dogruCevap": "B", "zorlukPuani": 50 }, { "id": "FZK029", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. Hız\\nII. İvme\\nIII. Ağırlık\\nIV. İş\\nV. Direnç\\n\\nbüyüklüklerinden hangileri hem türetilmiş hem de vektöreldir?", "secenekler": { "A": "A) I ve II", "B": "B) I, II ve III", "C": "C) I, IV ve V", "D": "D) I, III ve IV", "E": "E) I, II, III, IV ve V" }, "dogruCevap": "B", "zorlukPuani": 70 }, { "id": "FZK030", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Atom çekirdeğini inceleyen bilim dalıdır. Atom çekirdeğindeki bağları, bağların kopması sonucu açığa çıkan enerjiyi, radyasyonu ve radyasyondan korunma yollarını inceler.\"Verilen bilgiler fiziğin hangi alt dalına aittir?", "secenekler": { "A": "A) Manyetizma", "B": "B) Termodinamik", "C": "C) Nükleer fizik", "D": "D) Atom fiziği", "E": "E) Katıhal fiziği" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK031", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fiziğin alt dalları ile ilgili,\\n\\nI. Nükleer fizik; atom çekirdeğini inceler.\\nII. Katıhal fiziği; kristal yapılı parçacıkları inceler.\\nIII. Mekanik; kuvvet, hareket ve bunlar arasındaki enerji ilişkisini inceler.\\nIV. Manyetizma; ısı ve enerji arasındaki ilişkiyi inceler.\\n\\nyargılarından hangileri doğrudur?", "secenekler": { "A": "A) I ve II", "B": "B) II ve III", "C": "C) I, II ve III", "D": "D) I, II ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "FZK032", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nI. Isı - Termometre\\nII. Uzunluk - Şerit Metre\\nIII. Kütle - Terazi\\nIV. Akım Şiddeti - Ampermetre\\n\\nbüyüklükleri ile bu büyüklüklerin ölçüldüğü araçların eşleştirilmesinde hangileri doğrudur?", "secenekler": { "A": "A) II ve III", "B": "B) I, II ve III", "C": "C) II, III ve IV", "D": "D) I, III ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK033", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Hangisi temel büyüklük birimidir?", "secenekler": { "A": "A) Newton", "B": "B) Joule", "C": "C) Watt", "D": "D) Ohm", "E": "E) Kelvin" }, "dogruCevap": "E", "zorlukPuani": 45 }, { "id": "FZK034", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Hava durumu hakkında tahminler yapan bilim dalı aşağıdakilerden hangisidir?", "secenekler": { "A": "A) Fizik", "B": "B) Kimya", "C": "C) Jeofizik", "D": "D) Meteoroloji", "E": "E) Astronomi" }, "dogruCevap": "D", "zorlukPuani": 40 }, { "id": "FZK035", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Evrendeki olayların anlaşılmasında birçok bilim dalının katkısı vardır.\\n\\nAtom altı parçacıklar ve röntgen ışınlarının keşfedilmesinde hangi bilim dalı ön planda yer almaktadır?", "secenekler": { "A": "A) Kimya", "B": "B) Biyoloji", "C": "C) Astronomi", "D": "D) Matematik", "E": "E) Fizik" }, "dogruCevap": "E", "zorlukPuani": 45 }, { "id": "FZK036", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Irmak, rüzgar gülünde bir değişiklik yaparak rüzgar gülünün enerji üretimini %5 artırabilmiştir.\\n\\nIrmak'ın yapmış olduğu bu öneri ile gelecekte aşağıdakilerden hangisinin olumlu bir etki olarak karşımıza çıkması beklenmez?", "secenekler": { "A": "A) Aynı sistemde yeni fikirlerin doğuşuna sebep olabilir.", "B": "B) Benzer sistemde aynı fikrin kullanılmasına sebep olabilir.", "C": "C) Özel işletmelerin teşvikini arttırabilir.", "D": "D) Rüzgar gülüne yapılan yatırımın ve sayının artışına sebep olabilir.", "E": "E) Yeni bir enerji kaynağı bulunmuş olur." }, "dogruCevap": "E", "zorlukPuani": 65 }, { "id": "FZK037", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Evrenin oluşumuyla ilgili teorilerden bir tanesi de Büyük Patlama yani Big Bang olayıdır. Kuruluş amaçlarından biri de Big Bang'i kanıtlayabilmek için deneyler yapmak olan CERN'de birçok keşifler yapılmıştır.\\n\\nBu olayın açıklanmasında en çok hangi bilim dalından faydalanılmıştır?", "secenekler": { "A": "A) Fizik", "B": "B) Kimya", "C": "C) Astronomi", "D": "D) Matematik", "E": "E) Biyoloji" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK038", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Bilim araştırma merkezleri, fizik bilimine katkılarından dolayı önem taşımaktadır. Araştırma merkezlerinin temel görevlerinden birinin de fizik bilimine katkı sağlamayı hedeflemek olduğu anlaşılmaktadır.\\n\\nBuna göre aşağıda yer alan temel görevlerden hangisi fizik bilimine direkt katkı sağlamayı hedeflememiştir?", "secenekler": { "A": "A) Temel ve uygulamalı araştırmalar yapmak, yaptırmak ve yapmayı özendirmek", "B": "B) Bilimsel araştırma ortamları oluşturmak", "C": "C) Yerli ve yabancı araştırma kurumları ve araştırmacılarla her türlü bilimsel ve teknik işbirliği yapmak", "D": "D) Başka ülkelerden transfer edilen teknolojilerin ülke koşullarına uygunluğu ve geliştirilmesi konusunda çalışmalar yapmak", "E": "E) Türkiye'nin bilim ve teknoloji politikalarının saptanmasına yardımcı olmak" }, "dogruCevap": "E", "zorlukPuani": 75 }, { "id": "FZK039", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Bilim araştırma merkezlerinden TÜBİTAK, TAEK, ASELSAN, CERN, NASA, ESA gibi kurumlar fizik bilimine çok önemli katkılarda bulunmuşlardır.\\n\\nBuna göre hangisi fizik bilimine sağlanan katkılardan değildir?", "secenekler": { "A": "A) İnternet ağının oluşturulması", "B": "B) Atom altı parçacık ailesinin keşfedilmesi", "C": "C) İnsansız casus uçaklarının üretilmesi", "D": "D) Nükleer enerji ile elektrik üretiminin yapılması", "E": "E) Birçok insana iş sahasının açılması" }, "dogruCevap": "E", "zorlukPuani": 60 }, { "id": "FZK040", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "I. Zaman\\nII. Kuvvet\\nIII. Sıcaklık\\nIV. Hız\\nV. Kütle\\n\\nVerilen fiziksel niceliklerden hangileri vektörel büyüklüktür?", "secenekler": { "A": "A) I ve IV", "B": "B) II ve III", "C": "C) II ve IV", "D": "D) II, III ve IV", "E": "E) I, III ve V" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK041", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Verilen durumlardan hangisi fiziğin alt dallarından birinin konusu olamaz?", "secenekler": { "A": "A) Barajlarda kurulan santrallerden elektrik elde edilmesi", "B": "B) Parçacık hızlandırıcılarda atom altı parçacıkların davranışlarının gözlenmesi", "C": "C) Nükleer reaktörlerden elektrik enerjisi üretilmesi", "D": "D) Sütün mayalanması", "E": "E) Gezegen hareketlerinin gözlenmesi" }, "dogruCevap": "D", "zorlukPuani": 50 }, { "id": "FZK042", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Aşağıda verilen durumlardan hangisi nükleer fiziğin incelediği konular arasındadır?", "secenekler": { "A": "A) Atomlarda elektron dizilimi", "B": "B) Moleküller arasındaki çekim kuvveti", "C": "C) Hidrojen atomunun helyuma dönüşmesi", "D": "D) Lazer ile ince kesimlerin hassas yapılabilmesi", "E": "E) Bina yapılırken kule vinç kullanılması" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "FZK043", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi ile ilgili\\n\\nI. Önceleri doğa felsefesi içinde incelenen bir doğa bilimidir.\\nII. Değişmez ve kesin kanunları olan bir bilim dalıdır.\\nIII. Madde ve enerji etkileşimlerini inceleyen bilim dalıdır.\\n\\ntanımlamalarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) I ve II", "C": "C) I ve III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "FZK044", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Verilen büyüklüklerden hangisi vektöreldir?", "secenekler": { "A": "A) Hız", "B": "B) Kütle", "C": "C) Zaman", "D": "D) Basınç", "E": "E) Sıcaklık" }, "dogruCevap": "A", "zorlukPuani": 45 }, { "id": "FZK045", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi ile ilgili olarak yapılan,\\n\\nI. Doğada gerçekleşen olaylar bilimsel düşünce ile açıklanır.\\nII. Yapılan çalışmaların sonucu diğer disiplinlere de yansır.\\nIII. Gözlem ve deneye dayalı bir bilimdir.\\n\\naçıklamalarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) I ve III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "E", "zorlukPuani": 50 }, { "id": "FZK046", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Bilim etiğine göre bir bilim insanında\\n\\nI. Belirli bir grubun çıkarı için araştırma sonuçlarını değiştirmek\\nII. Kendisine ait olmayan çalışmaları kendi adıyla yayınlamak\\nIII. Başkalarının emeğine saygı göstermek\\n\\nözelliklerinden hangileri bulunmalıdır?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) Yalnız III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "C", "zorlukPuani": 45 }, { "id": "FZK047", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi diğer disiplinlerle ilişkilidir.\\nBuna göre verilen fiziksel olaylar ile ilgili disiplin eşleştirmelerinden hangisi yanlıştır?", "secenekler": { "A": "A) Paraşüt kumaşının dayanıklılığı - Spor", "B": "B) Ay'ın yörüngede dolanımı - Kimya", "C": "C) Zaman kavramının göreceli oluşu - Felsefe", "D": "D) Teknolojideki hızlı gelişim - Mühendislik", "E": "E) Yer yüzeyinin dalgalı hareketleri - Coğrafya" }, "dogruCevap": "B", "zorlukPuani": 60 }, { "id": "FZK048", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Hangisi fiziğin alt alanlarından birine girmez?", "secenekler": { "A": "A) Teleskopların çalışma prensibi", "B": "B) Kömürün yanması", "C": "C) Küresel ısınmanın etkileri", "D": "D) Dünya'nın manyetik alanı", "E": "E) Yüksek hızlı trenler" }, "dogruCevap": "B", "zorlukPuani": 55 }, { "id": "FZK049", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi aşağıdaki bilim dallarından hangisine doğrudan katkıda bulunmaz?", "secenekler": { "A": "A) Biyoloji", "B": "B) Astronomi", "C": "C) Psikoloji", "D": "D) Coğrafya", "E": "E) Kimya" }, "dogruCevap": "C", "zorlukPuani": 45 }, { "id": "FZK050", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Buzulların erimesi ve iklimlendirme konuları fizik biliminin hangi alt alanı ile doğrudan ilgilidir?", "secenekler": { "A": "A) Termodinamik", "B": "B) Optik", "C": "C) Katıhal Fiziği", "D": "D) Mekanik", "E": "E) Nükleer Fizik" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK051", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi diğer bilim dalları ile etkileştiğinde yeni bilim dalları ortaya çıkmıştır.\\n\\nAşağıdakilerden hangisi bu bilim dallarından biri değildir?", "secenekler": { "A": "A) Fizikokimya", "B": "B) Biyofizik", "C": "C) Nükleer Fizik", "D": "D) Jeofizik", "E": "E) Astrofizik" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK052", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fizik evrendeki olgu ve olayları değişik alt alanlarda inceler.\\n\\nBuna göre;\\n• Dünya'nın Ay'ı çekmesi\\n• İklimlendirme sistemleri\\n• Telefonda seslerin iletimi\\n• Çekirdek reaksiyonları sonucunda enerji elde edilmesi\\n\\nolayları seçeneklerle eşleştirildiğinde hangisi açıkta kalır?", "secenekler": { "A": "A) Mekanik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "D", "zorlukPuani": 65 }, { "id": "FZK053", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fizik bilimi ile ilgili gereçler ve fiziğin alt alanları eşleştirilmiştir:\\n\\nI. Pusula - Elektromanyetizma\\nII. Güneş Pili - Katıhal fiziği\\nIII. Prizma - Termodinamik\\n\\nBuna göre yapılan eşleştirmelerden hangisi ya da hangileri yanlıştır?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız III", "C": "C) I ve II", "D": "D) I ve III", "E": "E) I, II ve III" }, "dogruCevap": "B", "zorlukPuani": 60 }, { "id": "FZK054", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "İlk çağlardaki insanlar günlük hayattaki işlerini kolaylaştırmak için basit makineler tasarlamış, tekerleği icat ederek yük taşımacılığı yapmıştır.\\n\\nBu bilgiye dayanarak insanların fiziğin hangi alt alanıyla ilgilendiği söylenebilir?", "secenekler": { "A": "A) Mekanik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "A", "zorlukPuani": 45 }, { "id": "FZK055", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizikte matematik kullanımı ile ilgili;\\n\\nI. Verilerin toplanmasında matematikten faydalanılır.\\nII. Fizik yasaları matematik ile daha anlaşılır hale getirilebilir.\\nIII. Matematik, fiziği farklı durumlara uyarlanabilmesi için hesaplama yapmaya yardımcı olur.\\n\\nyargılarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) I ve II", "D": "D) I ve III", "E": "E) I, II ve III" }, "dogruCevap": "E", "zorlukPuani": 50 }, { "id": "FZK056", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "I. Yıldırım ve Şimşek\\nII. Paratoner\\n\\nYukarıda verilenleri fiziğin alt alanlarından hangisi inceler?", "secenekler": { "A": "A) Optik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Nükleer fizik", "E": "E) Mekanik" }, "dogruCevap": "B", "zorlukPuani": 50 }, { "id": "FZK057", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Evrende karşılaşılan bazı olaylar şunlardır:\\n\\n• Güneş Patlamaları\\n• Tüylerin Kabarması\\n• Şimşek Çakması\\n• Gökkuşağı Oluşması\\n\\nBuna göre bu olaylar fiziğin alt dalları ile eşleştirildiğinde aşağıdakilerden hangisi dışarıda kalır?", "secenekler": { "A": "A) Optik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK058", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdaki birimlerden hangisi türetilmiş bir büyüklüğe aittir?", "secenekler": { "A": "A) Kelvin", "B": "B) Amper", "C": "C) Metre", "D": "D) Kilogram", "E": "E) Newton" }, "dogruCevap": "E", "zorlukPuani": 45 }, { "id": "FZK059", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda temel büyüklükler ve büyüklüğün SI birim sistemindeki birimleri verilmiştir.\\n\\nBu birimlerden hangisi yanlıştır?", "secenekler": { "A": "A) Uzunluk - Metre", "B": "B) Elektrik Akımı - Volt", "C": "C) Kütle - Kilogram", "D": "D) Sıcaklık - Kelvin", "E": "E) Madde Miktarı - Mol" }, "dogruCevap": "B", "zorlukPuani": 50 }
+{ "id": "FZK021", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Bir okuldaki ısınma problemini çözmek isteyen tesisatçı Ahmet Bey temelde fiziğin hangi alt dalıyla ilgili çalışma yapmalıdır?", "secenekler": { "A": "A) Nükleer fizik", "B": "B) Katıhal fiziği", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Optik" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK022", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Pikniğe giden bir aile çaylarının daha uzun süre sıcak kalması için termos kullanmaktadır.\\n\\nBu olayda fiziğin hangi alt dalından faydalanılmaktadır?", "secenekler": { "A": "A) Nükleer fizik", "B": "B) Termodinamik", "C": "C) Katıhal fiziği", "D": "D) Atom fiziği", "E": "E) Mekanik" }, "dogruCevap": "B", "zorlukPuani": 45 }, { "id": "FZK023", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nI. Uzunluk\\nII. Kütle\\nIII. Sıcaklık\\nIV. Kuvvet\\n\\nbüyüklüklerinden hangileri temel büyüklüktür?", "secenekler": { "A": "A) I ve II", "B": "B) I ve III", "C": "C) I ve IV", "D": "D) I, II ve III", "E": "E) I, II, III ve IV" }, "dogruCevap": "D", "zorlukPuani": 60 }, { "id": "FZK024", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. İvme\\nII. Yer değiştirme\\nIII. Basınç\\n\\nniceliklerinden hangileri skaler büyüklüktür?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) Yalnız III", "D": "D) I ve II", "E": "E) II ve III" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "FZK025", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nBüyüklük / Birim\\nI. Uzunluk - metre\\nII. Kütle - kilogram\\nIII. Kuvvet - newton\\nIV. Hız - metre/saniye\\n\\nfiziksel büyüklük birim eşleşmelerinin hangileri doğrudur?", "secenekler": { "A": "A) I ve II", "B": "B) I ve III", "C": "C) I, II ve III", "D": "D) I, II ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "E", "zorlukPuani": 55 }, { "id": "FZK026", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Tıp bilimi olan Radyolojide, kemiklerimizin filmi çekilirken X ışınları kullanılmaktadır.\\n\\nVerilen bilgi fiziğin hangi alt dalına aittir?", "secenekler": { "A": "A) Mekanik", "B": "B) Manyetizma", "C": "C) Termodinamik", "D": "D) Katıhal fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "E", "zorlukPuani": 60 }, { "id": "FZK027", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. Konum\\nII. Kuvvet\\nIII. Kütle\\nIV. Ağırlık\\n\\nniceliklerinden hangileri skaler büyüklüktür?", "secenekler": { "A": "A) Yalnız I", "B": "B) II ve IV", "C": "C) Yalnız III", "D": "D) I ve II", "E": "E) II ve III" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK028", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdakilerden hangisi SI birim sisteminde kullanılan bir birim değildir?", "secenekler": { "A": "A) Metre", "B": "B) Gram", "C": "C) Saniye", "D": "D) Kelvin", "E": "E) Amper" }, "dogruCevap": "B", "zorlukPuani": 50 }, { "id": "FZK029", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıda verilen;\\n\\nI. Hız\\nII. İvme\\nIII. Ağırlık\\nIV. İş\\nV. Direnç\\n\\nbüyüklüklerinden hangileri hem türetilmiş hem de vektöreldir?", "secenekler": { "A": "A) I ve II", "B": "B) I, II ve III", "C": "C) I, IV ve V", "D": "D) I, III ve IV", "E": "E) I, II, III, IV ve V" }, "dogruCevap": "B", "zorlukPuani": 70 }, { "id": "FZK030", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Atom çekirdeğini inceleyen bilim dalıdır. Atom çekirdeğindeki bağları, bağların kopması sonucu açığa çıkan enerjiyi, radyasyonu ve radyasyondan korunma yollarını inceler.\"Verilen bilgiler fiziğin hangi alt dalına aittir?", "secenekler": { "A": "A) Manyetizma", "B": "B) Termodinamik", "C": "C) Nükleer fizik", "D": "D) Atom fiziği", "E": "E) Katıhal fiziği" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK031", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fiziğin alt dalları ile ilgili,\\n\\nI. Nükleer fizik; atom çekirdeğini inceler.\\nII. Katıhal fiziği; kristal yapılı parçacıkları inceler.\\nIII. Mekanik; kuvvet, hareket ve bunlar arasındaki enerji ilişkisini inceler.\\nIV. Manyetizma; ısı ve enerji arasındaki ilişkiyi inceler.\\n\\nyargılarından hangileri doğrudur?", "secenekler": { "A": "A) I ve II", "B": "B) II ve III", "C": "C) I, II ve III", "D": "D) I, II ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "FZK032", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nI. Isı - Termometre\\nII. Uzunluk - Şerit Metre\\nIII. Kütle - Terazi\\nIV. Akım Şiddeti - Ampermetre\\n\\nbüyüklükleri ile bu büyüklüklerin ölçüldüğü araçların eşleştirilmesinde hangileri doğrudur?", "secenekler": { "A": "A) II ve III", "B": "B) I, II ve III", "C": "C) II, III ve IV", "D": "D) I, III ve IV", "E": "E) I, II, III ve IV" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK033", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Hangisi temel büyüklük birimidir?", "secenekler": { "A": "A) Newton", "B": "B) Joule", "C": "C) Watt", "D": "D) Ohm", "E": "E) Kelvin" }, "dogruCevap": "E", "zorlukPuani": 45 }, { "id": "FZK034", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Hava durumu hakkında tahminler yapan bilim dalı aşağıdakilerden hangisidir?", "secenekler": { "A": "A) Fizik", "B": "B) Kimya", "C": "C) Jeofizik", "D": "D) Meteoroloji", "E": "E) Astronomi" }, "dogruCevap": "D", "zorlukPuani": 40 }, { "id": "FZK035", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Evrendeki olayların anlaşılmasında birçok bilim dalının katkısı vardır.\\n\\nAtom altı parçacıklar ve röntgen ışınlarının keşfedilmesinde hangi bilim dalı ön planda yer almaktadır?", "secenekler": { "A": "A) Kimya", "B": "B) Biyoloji", "C": "C) Astronomi", "D": "D) Matematik", "E": "E) Fizik" }, "dogruCevap": "E", "zorlukPuani": 45 }, { "id": "FZK036", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Irmak, rüzgar gülünde bir değişiklik yaparak rüzgar gülünün enerji üretimini %5 artırabilmiştir.\\n\\nIrmak'ın yapmış olduğu bu öneri ile gelecekte aşağıdakilerden hangisinin olumlu bir etki olarak karşımıza çıkması beklenmez?", "secenekler": { "A": "A) Aynı sistemde yeni fikirlerin doğuşuna sebep olabilir.", "B": "B) Benzer sistemde aynı fikrin kullanılmasına sebep olabilir.", "C": "C) Özel işletmelerin teşvikini arttırabilir.", "D": "D) Rüzgar gülüne yapılan yatırımın ve sayının artışına sebep olabilir.", "E": "E) Yeni bir enerji kaynağı bulunmuş olur." }, "dogruCevap": "E", "zorlukPuani": 65 }, { "id": "FZK037", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Evrenin oluşumuyla ilgili teorilerden bir tanesi de Büyük Patlama yani Big Bang olayıdır. Kuruluş amaçlarından biri de Big Bang'i kanıtlayabilmek için deneyler yapmak olan CERN'de birçok keşifler yapılmıştır.\\n\\nBu olayın açıklanmasında en çok hangi bilim dalından faydalanılmıştır?", "secenekler": { "A": "A) Fizik", "B": "B) Kimya", "C": "C) Astronomi", "D": "D) Matematik", "E": "E) Biyoloji" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK038", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Bilim araştırma merkezleri, fizik bilimine katkılarından dolayı önem taşımaktadır. Araştırma merkezlerinin temel görevlerinden birinin de fizik bilimine katkı sağlamayı hedeflemek olduğu anlaşılmaktadır.\\n\\nBuna göre aşağıda yer alan temel görevlerden hangisi fizik bilimine direkt katkı sağlamayı hedeflememiştir?", "secenekler": { "A": "A) Temel ve uygulamalı araştırmalar yapmak, yaptırmak ve yapmayı özendirmek", "B": "B) Bilimsel araştırma ortamları oluşturmak", "C": "C) Yerli ve yabancı araştırma kurumları ve araştırmacılarla her türlü bilimsel ve teknik işbirliği yapmak", "D": "D) Başka ülkelerden transfer edilen teknolojilerin ülke koşullarına uygunluğu ve geliştirilmesi konusunda çalışmalar yapmak", "E": "E) Türkiye'nin bilim ve teknoloji politikalarının saptanmasına yardımcı olmak" }, "dogruCevap": "E", "zorlukPuani": 75 }, { "id": "FZK039", "ders": "fizik", "konu": "fizik_kariyer", "soruMetni": "Bilim araştırma merkezlerinden TÜBİTAK, TAEK, ASELSAN, CERN, NASA, ESA gibi kurumlar fizik bilimine çok önemli katkılarda bulunmuşlardır.\\n\\nBuna göre hangisi fizik bilimine sağlanan katkılardan değildir?", "secenekler": { "A": "A) İnternet ağının oluşturulması", "B": "B) Atom altı parçacık ailesinin keşfedilmesi", "C": "C) İnsansız casus uçaklarının üretilmesi", "D": "D) Nükleer enerji ile elektrik üretiminin yapılması", "E": "E) Birçok insana iş sahasının açılması" }, "dogruCevap": "E", "zorlukPuani": 60 }, { "id": "FZK040", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "I. Zaman\\nII. Kuvvet\\nIII. Sıcaklık\\nIV. Hız\\nV. Kütle\\n\\nVerilen fiziksel niceliklerden hangileri vektörel büyüklüktür?", "secenekler": { "A": "A) I ve IV", "B": "B) II ve III", "C": "C) II ve IV", "D": "D) II, III ve IV", "E": "E) I, III ve V" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK041", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Verilen durumlardan hangisi fiziğin alt dallarından birinin konusu olamaz?", "secenekler": { "A": "A) Barajlarda kurulan santrallerden elektrik elde edilmesi", "B": "B) Parçacık hızlandırıcılarda atom altı parçacıkların davranışlarının gözlenmesi", "C": "C) Nükleer reaktörlerden elektrik enerjisi üretilmesi", "D": "D) Sütün mayalanması", "E": "E) Gezegen hareketlerinin gözlenmesi" }, "dogruCevap": "D", "zorlukPuani": 50 }, { "id": "FZK042", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Aşağıda verilen durumlardan hangisi nükleer fiziğin incelediği konular arasındadır?", "secenekler": { "A": "A) Atomlarda elektron dizilimi", "B": "B) Moleküller arasındaki çekim kuvveti", "C": "C) Hidrojen atomunun helyuma dönüşmesi", "D": "D) Lazer ile ince kesimlerin hassas yapılabilmesi", "E": "E) Bina yapılırken kule vinç kullanılması" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "FZK043", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi ile ilgili\\n\\nI. Önceleri doğa felsefesi içinde incelenen bir doğa bilimidir.\\nII. Değişmez ve kesin kanunları olan bir bilim dalıdır.\\nIII. Madde ve enerji etkileşimlerini inceleyen bilim dalıdır.\\n\\ntanımlamalarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) I ve II", "C": "C) I ve III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "FZK044", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Verilen büyüklüklerden hangisi vektöreldir?", "secenekler": { "A": "A) Hız", "B": "B) Kütle", "C": "C) Zaman", "D": "D) Basınç", "E": "E) Sıcaklık" }, "dogruCevap": "A", "zorlukPuani": 45 }, { "id": "FZK045", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi ile ilgili olarak yapılan,\\n\\nI. Doğada gerçekleşen olaylar bilimsel düşünce ile açıklanır.\\nII. Yapılan çalışmaların sonucu diğer disiplinlere de yansır.\\nIII. Gözlem ve deneye dayalı bir bilimdir.\\n\\naçıklamalarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) I ve III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "E", "zorlukPuani": 50 }, { "id": "FZK046", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Bilim etiğine göre bir bilim insanında\\n\\nI. Belirli bir grubun çıkarı için araştırma sonuçlarını değiştirmek\\nII. Kendisine ait olmayan çalışmaları kendi adıyla yayınlamak\\nIII. Başkalarının emeğine saygı göstermek\\n\\nözelliklerinden hangileri bulunmalıdır?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) Yalnız III", "D": "D) II ve III", "E": "E) I, II ve III" }, "dogruCevap": "C", "zorlukPuani": 45 }, { "id": "FZK047", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi diğer disiplinlerle ilişkilidir.\\nBuna göre verilen fiziksel olaylar ile ilgili disiplin eşleştirmelerinden hangisi yanlıştır?", "secenekler": { "A": "A) Paraşüt kumaşının dayanıklılığı - Spor", "B": "B) Ay'ın yörüngede dolanımı - Kimya", "C": "C) Zaman kavramının göreceli oluşu - Felsefe", "D": "D) Teknolojideki hızlı gelişim - Mühendislik", "E": "E) Yer yüzeyinin dalgalı hareketleri - Coğrafya" }, "dogruCevap": "B", "zorlukPuani": 60 }, { "id": "FZK048", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Hangisi fiziğin alt alanlarından birine girmez?", "secenekler": { "A": "A) Teleskopların çalışma prensibi", "B": "B) Kömürün yanması", "C": "C) Küresel ısınmanın etkileri", "D": "D) Dünya'nın manyetik alanı", "E": "E) Yüksek hızlı trenler" }, "dogruCevap": "B", "zorlukPuani": 55 }, { "id": "FZK049", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi aşağıdaki bilim dallarından hangisine doğrudan katkıda bulunmaz?", "secenekler": { "A": "A) Biyoloji", "B": "B) Astronomi", "C": "C) Psikoloji", "D": "D) Coğrafya", "E": "E) Kimya" }, "dogruCevap": "C", "zorlukPuani": 45 }, { "id": "FZK050", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Buzulların erimesi ve iklimlendirme konuları fizik biliminin hangi alt alanı ile doğrudan ilgilidir?", "secenekler": { "A": "A) Termodinamik", "B": "B) Optik", "C": "C) Katıhal Fiziği", "D": "D) Mekanik", "E": "E) Nükleer Fizik" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK051", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizik bilimi diğer bilim dalları ile etkileştiğinde yeni bilim dalları ortaya çıkmıştır.\\n\\nAşağıdakilerden hangisi bu bilim dallarından biri değildir?", "secenekler": { "A": "A) Fizikokimya", "B": "B) Biyofizik", "C": "C) Nükleer Fizik", "D": "D) Jeofizik", "E": "E) Astrofizik" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "FZK052", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fizik evrendeki olgu ve olayları değişik alt alanlarda inceler.\\n\\nBuna göre;\\n• Dünya'nın Ay'ı çekmesi\\n• İklimlendirme sistemleri\\n• Telefonda seslerin iletimi\\n• Çekirdek reaksiyonları sonucunda enerji elde edilmesi\\n\\nolayları seçeneklerle eşleştirildiğinde hangisi açıkta kalır?", "secenekler": { "A": "A) Mekanik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "D", "zorlukPuani": 65 }, { "id": "FZK053", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Fizik bilimi ile ilgili gereçler ve fiziğin alt alanları eşleştirilmiştir:\\n\\nI. Pusula - Elektromanyetizma\\nII. Güneş Pili - Katıhal fiziği\\nIII. Prizma - Termodinamik\\n\\nBuna göre yapılan eşleştirmelerden hangisi ya da hangileri yanlıştır?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız III", "C": "C) I ve II", "D": "D) I ve III", "E": "E) I, II ve III" }, "dogruCevap": "B", "zorlukPuani": 60 }, { "id": "FZK054", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "İlk çağlardaki insanlar günlük hayattaki işlerini kolaylaştırmak için basit makineler tasarlamış, tekerleği icat ederek yük taşımacılığı yapmıştır.\\n\\nBu bilgiye dayanarak insanların fiziğin hangi alt alanıyla ilgilendiği söylenebilir?", "secenekler": { "A": "A) Mekanik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "A", "zorlukPuani": 45 }, { "id": "FZK055", "ders": "fizik", "konu": "fizik_bilimi", "soruMetni": "Fizikte matematik kullanımı ile ilgili;\\n\\nI. Verilerin toplanmasında matematikten faydalanılır.\\nII. Fizik yasaları matematik ile daha anlaşılır hale getirilebilir.\\nIII. Matematik, fiziği farklı durumlara uyarlanabilmesi için hesaplama yapmaya yardımcı olur.\\n\\nyargılarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) I ve II", "D": "D) I ve III", "E": "E) I, II ve III" }, "dogruCevap": "E", "zorlukPuani": 50 }, { "id": "FZK056", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "I. Yıldırım ve Şimşek\\nII. Paratoner\\n\\nYukarıda verilenleri fiziğin alt alanlarından hangisi inceler?", "secenekler": { "A": "A) Optik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Nükleer fizik", "E": "E) Mekanik" }, "dogruCevap": "B", "zorlukPuani": 50 }, { "id": "FZK057", "ders": "fizik", "konu": "fizik_alt_dallar", "soruMetni": "Evrende karşılaşılan bazı olaylar şunlardır:\\n\\n• Güneş Patlamaları\\n• Tüylerin Kabarması\\n• Şimşek Çakması\\n• Gökkuşağı Oluşması\\n\\nBuna göre bu olaylar fiziğin alt dalları ile eşleştirildiğinde aşağıdakilerden hangisi dışarıda kalır?", "secenekler": { "A": "A) Optik", "B": "B) Elektromanyetizma", "C": "C) Termodinamik", "D": "D) Atom fiziği", "E": "E) Nükleer fizik" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "FZK058", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdaki birimlerden hangisi türetilmiş bir büyüklüğe aittir?", "secenekler": { "A": "A) Kelvin", "B": "B) Amper", "C": "C) Metre", "D": "D) Kilogram", "E": "E) Newton" }, "dogruCevap": "E", "zorlukPuani": 45 }, 
+{ "id": "FZK059", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda temel büyüklükler ve büyüklüğün SI birim sistemindeki birimleri verilmiştir.\\n\\nBu birimlerden hangisi yanlıştır?", "secenekler": { "A": "A) Uzunluk - Metre", "B": "B) Elektrik Akımı - Volt", "C": "C) Kütle - Kilogram", "D": "D) Sıcaklık - Kelvin", "E": "E) Madde Miktarı - Mol" }, "dogruCevap": "B", "zorlukPuani": 50 }, { "id": "FZK060", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdakilerden hangisi fizik bilimine göre temel bir büyüklük değildir?", "secenekler": { "A": "A) Sıcaklık", "B": "B) Madde miktarı", "C": "C) Hacim", "D": "D) Işık şiddeti", "E": "E) Elektrik akımı" }, "dogruCevap": "C", "zorlukPuani": 45 }, { "id": "FZK061", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdaki birimlerden hangisi fizik bilimine göre temel bir büyüklüğe aittir?", "secenekler": { "A": "A) Litre", "B": "B) Newton", "C": "C) Amper", "D": "D) Metreküp", "E": "E) Pascal" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK062", "ders": "fizik", "konu": "skaler_vektorel", "soruMetni": "Aşağıdaki birimlerden hangisi vektörel bir büyüklüğe aittir?", "secenekler": { "A": "A) Newton", "B": "B) Saniye", "C": "C) Kelvin", "D": "D) Kilogram", "E": "E) Candela" }, "dogruCevap": "A", "zorlukPuani": 55 }, { "id": "FZK063", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıda verilen;\\n\\nI. Santimetre\\nII. Saniye\\nIII. Celsius\\nIV. Ton\\nV. Amper\\nVI. Litre\\n\\nbirimlerinden hangileri SI birim sistemindeki temel birimlerdendir?", "secenekler": { "A": "A) I ve II", "B": "B) II ve III", "C": "C) II ve V", "D": "D) I, II ve VI", "E": "E) II, III, IV ve V" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "FZK064", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Aşağıdaki büyüklük birim eşleştirmelerinden hangisi yanlıştır?", "secenekler": { "A": "A) Kuvvet - Newton", "B": "B) Basınç - Pascal", "C": "C) Kütle - Kilogram", "D": "D) Elektrik akımı - Amper", "E": "E) Güç - Joule" }, "dogruCevap": "E", "zorlukPuani": 50 }, { "id": "FZK065", "ders": "fizik", "konu": "vektorler", "soruMetni": "Yukarıdaki şekilde K ve L vektörleri kareli düzlem üzerinde gösterilmiştir. Buna göre bu iki vektörün bileşkesinin (R = K + L) büyüklüğü kaç birimdir?", "gorsel": "data/images/fizik/fizik-ogm-test5-soru6.png", "secenekler": { "A": "A) 7", "B": "B) 10", "C": "C) 13", "D": "D) 18", "E": "E) 20" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "FZK066", "ders": "fizik", "konu": "temel_kuvvetler", "soruMetni": "Kuvvet ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?", "secenekler": { "A": "A) Birimi newtondur.", "B": "B) Dinamometre ile ölçülür.", "C": "C) Temel bir büyüklüktür.", "D": "D) F sembolü ile gösterilir.", "E": "E) Vektöreldir." }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "FZK067", "ders": "fizik", "konu": "temel_kuvvetler", "soruMetni": "Kuvvetle ilgili olarak;\\n\\nI. Çekme veya itme olarak hissedilebilir.\\nII. Dinamometre ile ölçülür.\\nIII. Cisimlerin hareketinde ve şeklinde değişiklik yapabilir.\\n\\nyargılarından hangileri doğrudur?", "secenekler": { "A": "A) Yalnız I", "B": "B) Yalnız II", "C": "C) Yalnız III", "D": "D) I ve II", "E": "E) I, II ve III" }, "dogruCevap": "E", "zorlukPuani": 55 }, { "id": "FZK068", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Kuvvetin birimi Newtondur.\\n\\nBu birimin temel büyüklük birimleriyle ifadesi aşağıdakilerden hangisidir?", "secenekler": { "A": "A) kg.m", "B": "B) kg.m.s", "C": "C) kg.m/s", "D": "D) kg.m2/s", "E": "E) kg.m/s2" }, "dogruCevap": "E", "zorlukPuani": 65 }, { "id": "FZK069", "ders": "fizik", "konu": "temel_turetilmis", "soruMetni": "Fizikte büyüklükler, temel ve türetilmiş büyüklükler olarak sınıflandırılırken aynı zamanda vektörel ve skaler büyüklükler olarak da sınıflandırılır.\\n\\nBuna göre aşağıda verilen fiziksel niceliklerden hangisi diğerlerinden farklıdır?", "secenekler": { "A": "A) İş", "B": "B) Enerji", "C": "C) Sürat", "D": "D) Uzunluk", "E": "E) Hacim" }, "dogruCevap": "D", "zorlukPuani": 60 }, {
+    "id": "fizik-ogm-test6-soru1",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru1.png",
+    "secenekler": {
+      "A": "A) Katıhal Fiziği",
+      "B": "B) Mekanik",
+      "C": "C) Elektromanyetizma",
+      "D": "D) Optik",
+      "E": "E) Termodinamik"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test6-soru2",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru2.png",
+    "secenekler": {
+      "A": "A) Yalnız II",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test6-soru3",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru3.png",
+    "secenekler": {
+      "A": "A) Deri - Termodinamik",
+      "B": "B) Kalp - Mekanik",
+      "C": "C) Beyin - Elektromanyetizma",
+      "D": "D) Damarlar - Katıhal Fiziği",
+      "E": "E) Göz - Optik"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 55
+  },
+  {
+    "id": "fizik-ogm-test6-soru4",
+    "ders": "fizik",
+    "konu": "vektorler",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru4.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) I ve II",
+      "D": "D) I ve III",
+      "E": "E) II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test6-soru5",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru5.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) Yalnız III",
+      "D": "D) I ve III",
+      "E": "E) II ve III"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test6-soru6",
+    "ders": "fizik",
+    "konu": "skaler_vektorel",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru6.png",
+    "secenekler": {
+      "A": "A) Skaler - Vektörel - Skaler",
+      "B": "B) Vektörel - Vektörel - Skaler",
+      "C": "C) Skaler - Vektörel - Vektörel",
+      "D": "D) Skaler - Skaler - Skaler",
+      "E": "E) Vektörel - Skaler - Skaler"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test6-soru7",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru7.png",
+    "secenekler": {
+      "A": "A) Yüksek Enerji ve Plazma Fiziği",
+      "B": "B) Nükleer Fizik",
+      "C": "C) Katıhal Fiziği",
+      "D": "D) Termodinamik",
+      "E": "E) Atom Fiziği"
+    },
+    "dogruCevap": "B",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test6-soru8",
+    "ders": "fizik",
+    "konu": "fizik_yon_verenler",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru8.png",
+    "secenekler": {
+      "A": "A) Pénaud ve Henry",
+      "B": "B) Curie ve Tesla",
+      "C": "C) Henry ve Tesla",
+      "D": "D) Newcomenk ve Curie",
+      "E": "E) Curie, Henry ve Tesla"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test6-soru9",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru9.png",
+    "secenekler": {
+      "A": "A) Yalnız II",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 55
+  },
+  {
+    "id": "fizik-ogm-test6-soru10",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test6-soru10.png",
+    "secenekler": {
+      "A": "A) Katıhal Fiziği",
+      "B": "B) Mekanik",
+      "C": "C) Elektromanyetizma",
+      "D": "D) Nükleer Fizik",
+      "E": "E) Termodinamik"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 75
+  },
+  {
+    "id": "fizik-ogm-test7-soru1",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru1.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test7-soru2",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru2.png",
+    "secenekler": {
+      "A": "A) Termodinamik",
+      "B": "B) Elektromanyetizma",
+      "C": "C) Katıhal fiziği",
+      "D": "D) Yüksek enerji ve plazma fiziği",
+      "E": "E) Nükleer fizik"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test7-soru3",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru3.png",
+    "secenekler": {
+      "A": "A) <img src='data/images/fizik/fizik-ogm-test7-soru3a.png' style='max-height: 80px; vertical-align: middle;'>",
+      "B": "B) <img src='data/images/fizik/fizik-ogm-test7-soru3b.png' style='max-height: 80px; vertical-align: middle;'>",
+      "C": "C) <img src='data/images/fizik/fizik-ogm-test7-soru3c.png' style='max-height: 80px; vertical-align: middle;'>",
+      "D": "D) <img src='data/images/fizik/fizik-ogm-test7-soru3d.png' style='max-height: 80px; vertical-align: middle;'>",
+      "E": "E) <img src='data/images/fizik/fizik-ogm-test7-soru3e.png' style='max-height: 80px; vertical-align: middle;'>"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 75
+  },
+  {
+    "id": "fizik-ogm-test7-soru4",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru4.png",
+    "secenekler": {
+      "A": "A) Siyaset",
+      "B": "B) Din Bilimi",
+      "C": "C) Sanat",
+      "D": "D) Mühendislik",
+      "E": "E) Psikoloji"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 50
+  },
+  {
+    "id": "fizik-ogm-test7-soru5",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru5.png",
+    "secenekler": {
+      "A": "A) Akım Şiddeti - Ampermetre",
+      "B": "B) Işık Şiddeti - Fotometre",
+      "C": "C) Ağırlık - Eşit kollu terazi",
+      "D": "D) Kuvvet - Dinamometre",
+      "E": "E) Basınç - Barometre"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test7-soru6",
+    "ders": "fizik",
+    "konu": "fizik_kariyer",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru6.png",
+    "secenekler": {
+      "A": "A) NASA",
+      "B": "B) ASELSAN",
+      "C": "C) ESA",
+      "D": "D) CERN",
+      "E": "E) TÜBİTAK BİLGEM"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test7-soru7",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru7.png",
+    "secenekler": {
+      "A": "A) Işık şiddeti",
+      "B": "B) Kuvvet",
+      "C": "C) Hacim",
+      "D": "D) Enerji",
+      "E": "E) Kütle"
+    },
+    "dogruCevap": "B",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test7-soru8",
+    "ders": "fizik",
+    "konu": "skaler_vektorel",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru8.png",
+    "secenekler": {
+      "A": "A) I ve II",
+      "B": "B) II ve III",
+      "C": "C) II ve IV",
+      "D": "D) I, III ve V",
+      "E": "E) II, III ve V"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test7-soru9",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru9.png",
+    "secenekler": {
+      "A": "A) Termodinamik",
+      "B": "B) Katıhal Fiziği",
+      "C": "C) Elektromanyetizma",
+      "D": "D) Yüksek Enerji ve Plazma Fiziği",
+      "E": "E) Optik"
+    },
+    "dogruCevap": "B",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test7-soru10",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test7-soru10.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test8-soru1",
+    "ders": "fizik",
+    "konu": "fizik_kariyer",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru1.png",
+    "secenekler": {
+      "A": "A) CERN - ASELSAN",
+      "B": "B) ESA - TAEK",
+      "C": "C) NASA - ASELSAN",
+      "D": "D) CERN - TÜBİTAK",
+      "E": "E) ESA - ASELSAN"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test8-soru2",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru2.png",
+    "secenekler": {
+      "A": "A) Kilogram - Santimetre - Saat",
+      "B": "B) Ton - Metre - Saat",
+      "C": "C) Kilogram - Metre - Saniye",
+      "D": "D) Kilogram - Santimetre - Saniye",
+      "E": "E) Ton - Metre - Saniye"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test8-soru3",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru3.png",
+    "secenekler": {
+      "A": "A) İrem: 2. Çıkış, Emir: 3. Çıkış",
+      "B": "B) İrem: 1. Çıkış, Emir: 3. Çıkış",
+      "C": "C) İrem: 4. Çıkış, Emir: 2. Çıkış",
+      "D": "D) İrem: 3. Çıkış, Emir: 2. Çıkış",
+      "E": "E) İrem: 3. Çıkış, Emir: 1. Çıkış"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test8-soru4",
+    "ders": "fizik",
+    "konu": "fizik_kariyer",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru4.png",
+    "secenekler": {
+      "A": "A) Ulusal öncelikler doğrultusunda bilim ve teknolojinin gelişmesine yardımcı olmak.",
+      "B": "B) Ulusal sanayinin üniversite ve araştırma kurum ve kuruluşları ile işbirliği yapmasını sağlayacak programlar geliştirmek, bu işbirliğinin somut hale dönüşebileceği fiziki ortamlar yaratmak.",
+      "C": "C) Kurumun ilgi alanlarının dışında yabancı dillerde kitap ve periyodik yayınları desteklemek.",
+      "D": "D) Görev alanına giren konularda ulusal ve uluslararası kongre, seminer, kolokyum gibi bilimsel toplantıları desteklemek, düzenlemek ve bunlara katılmak.",
+      "E": "E) Bilim insanlarının, araştırmacıların yetiştirilmeleri ve geliştirilmeleri için olanaklar sağlamak."
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 55
+  },
+  {
+    "id": "fizik-ogm-test8-soru5",
+    "ders": "fizik",
+    "konu": "vektorler",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru5.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) I ve II",
+      "D": "D) I ve III",
+      "E": "E) II ve III"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 75
+  },
+  {
+    "id": "fizik-ogm-test8-soru6",
+    "ders": "fizik",
+    "konu": "bilim_etigi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru6.png",
+    "secenekler": {
+      "A": "A) Aynı araştırma sonuçlarını birden fazla bilimsel dergiye yayımlanması için göndermek.",
+      "B": "B) İntihal yapmak.",
+      "C": "C) Yaptığı araştırmanın sonuçlarını birçok parçaya ayırarak birden çok sayıda yayın yapmak.",
+      "D": "D) Yaptığı araştırmada beklenen sonuca ulaşmak için veri sonuçlarında ufak değişiklikler yapmak.",
+      "E": "E) Başkalarının fikirlerini, metodlarını, verilerini, yazılarını sahiplerine atıf yaparak kullanmak."
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 50
+  },
+  {
+    "id": "fizik-ogm-test8-soru7",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru7.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test8-soru8",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru8.png",
+    "secenekler": {
+      "A": "A) cm/s²",
+      "B": "B) s/cm²",
+      "C": "C) m/s²",
+      "D": "D) m²/s²",
+      "E": "E) s/m²"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 55
+  },
+  {
+    "id": "fizik-ogm-test8-soru9",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru9.png",
+    "secenekler": {
+      "A": "A) l",
+      "B": "B) T",
+      "C": "C) t",
+      "D": "D) i",
+      "E": "E) m"
+    },
+    "dogruCevap": "B",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test8-soru10",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test8-soru10.png",
+    "secenekler": {
+      "A": "A) Klasik fizik modern fiziğin temelini oluşturmuştur.",
+      "B": "B) Fizikte gelişmeler her dönem devam edecektir.",
+      "C": "C) Yüksek enerji ve plazma fiziği modern fizik döneminde gelişen bir daldır.",
+      "D": "D) Klasik dönemde elektromanyetizma dalını Maxwell kurmuştur.",
+      "E": "E) Günümüzde kullandığımız icatlarda katıhal fiziği etkindir."
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test9-soru1",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru1.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test9-soru2",
+    "ders": "fizik",
+    "konu": "fizik_bilimi",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru2.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) I ve II",
+      "C": "C) I ve III",
+      "D": "D) II ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 65
+  },
+  {
+    "id": "fizik-ogm-test9-soru3",
+    "ders": "fizik",
+    "konu": "fizik_alt_dallar",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru3.png",
+    "secenekler": {
+      "A": "A) Yarış arabalarının aerodinamik yapısı",
+      "B": "B) Elektrikli otomobiller",
+      "C": "C) Isıtma-soğutma sistemleri",
+      "D": "D) Nanoteknoloji uygulamaları",
+      "E": "E) Fiber optik kablo sistemleri"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 75
+  },
+  {
+    "id": "fizik-ogm-test9-soru4",
+    "ders": "fizik",
+    "konu": "fizik_kariyer",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru4.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) I ve II",
+      "D": "D) I ve III",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 60
+  },
+  {
+    "id": "fizik-ogm-test9-soru5",
+    "ders": "fizik",
+    "konu": "skaler_vektorel",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru5.png",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) Yalnız III",
+      "D": "D) I ve II",
+      "E": "E) I ve IV"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 70
+  },
+  {
+    "id": "fizik-ogm-test9-soru6",
+    "ders": "fizik",
+    "konu": "temel_turetilmis",
+    "soruMetni": "",
+    "gorsel": "data/images/fizik/fizik-ogm-test9-soru6.png",
+    "secenekler": {
+      "A": "A) Akım şiddeti",
+      "B": "B) Sıcaklık",
+      "C": "C) Kuvvet",
+      "D": "D) Madde miktarı",
+      "E": "E) Kütle"
+    },
+    "dogruCevap": "C",
+    "zorlukPuani": 55
+  }
 
 ]
