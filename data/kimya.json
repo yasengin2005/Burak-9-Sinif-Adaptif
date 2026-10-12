@@ -1,0 +1,185 @@
+[{ "id": "kimya-gemininb-soru1", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Maddelerin hangi bileşenlerden oluştuğunu ve bu bileşenlerin nicel ile nitel miktarlarını inceleyen; şeker pancarındaki şeker oranının tayini ve kan analizleri gibi çalışmalarda yararlanılan kimya alt disiplini aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Analitik Kimya", "B": "B) Biyokimya", "C": "C) Organik Kimya", "D": "D) Fizikokimya", "E": "E) Polimer Kimyası" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru2", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Canlı organizmalarda bulunan kimyasal bileşiklerin yapısını, özelliklerini ve yaşam süreçleri boyunca gerçekleşen tepkimeleri inceleyen kimya disiplini aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Anorganik Kimya", "B": "B) Biyokimya", "C": "C) Fizikokimya", "D": "D) Organik Kimya", "E": "E) Endüstriyel Kimya" }, "dogruCevap": "B", "zorlukPuani": 50 }, 
+{ "id": "kimya-gemininb-soru3", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Temel olarak karbon bileşiklerinin yapısını, özelliklerini ve tepkimelerini inceleyen, aynı zamanda karbon kimyası olarak da bilinen alan aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Fizikokimya", "B": "B) Anorganik Kimya", "C": "C) Organik Kimya", "D": "D) Biyokimya", "E": "E) Polimer Kimyası" }, "dogruCevap": "C", "zorlukPuani": 55 }, { "id": "kimya-gemininb-soru4", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Sıcaklık, basınç ve derişim gibi fiziksel faktörlerin kimyasal tepkimelere etkisini ve tepkimelerdeki enerji dönüşümlerini inceleyen kimya disiplini hangisidir?", "gorsel": "", "secenekler": { "A": "A) Biyokimya", "B": "B) Analitik Kimya", "C": "C) Polimer Kimyası", "D": "D) Fizikokimya", "E": "E) Anorganik Kimya" }, "dogruCevap": "D", "zorlukPuani": 65 }, 
+{ "id": "kimya-gemininb-soru5", "ders": "kimya", "konu": "kimya_kariyer", "soruMetni": "Kimya, biyokimya ve moleküler biyofizik alanlarındaki çalışmalarıyla bilinen, 25 yaşında en genç profesör ünvanını alarak Türk Aynştaynı olarak tanınan bilim insanı kimdir?", "gorsel": "", "secenekler": { "A": "A) Aziz Sancar", "B": "B) Oktay Sinanoğlu", "C": "C) Ebû Bekir er-Râzî", "D": "D) Cahit Arf", "E": "E) Gazi Yaşargil" }, "dogruCevap": "B", "zorlukPuani": 70 }, 
+{ "id": "kimya-gemininb-soru6", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Laboratuvarda yanıcı ve parlayıcı özelliğe sahip kimyasal maddelerle çalışırken aşağıdaki davranışlardan hangisi yapılmalıdır?", "gorsel": "", "secenekler": { "A": "A) Maddeler açık alev ve ısı kaynaklarından uzak tutulmalıdır.", "B": "B) Maddelerin tadına bakılarak kontrol edilmelidir.", "C": "C) Şişelerin kapağı sürekli açık bırakılmalıdır.", "D": "D) Doğrudan koklanarak teşhis edilmelidir.", "E": "E) Kullanım sonrası artan miktar lavaboya dökülmelidir." }, "dogruCevap": "A", "zorlukPuani": 50 }, 
+{ "id": "kimya-gemininb-soru7", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Sıvıların hacmini hassas bir biçimde ölçmek ve başka kaplara aktarmak amacıyla kullanılan laboratuvar cam malzemesi aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Beherglas", "B": "B) Erlenmayer", "C": "C) Pipet", "D": "D) Saat camı", "E": "E) Havan" }, "dogruCevap": "C", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru8", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Laboratuvarda bir asidin cilt ile teması halinde yapılması gereken ilk yardım adımı aşağıdakilerden hangisinde doğru ifade edilmiştir?", "gorsel": "", "secenekler": { "A": "A) Temas eden bölgeye hemen derhal kuvvetli bir baz dökülmelidir.", "B": "B) Bölge hemen bol su ile yıkanmalı ve ardından zayıf bir baz çözeltisi uygulanmalıdır.", "C": "C) Temas bölgesi hava almayacak şekilde sargı beziyle sıkıca kapatılmalıdır.", "D": "D) Su değdirilmeden üzerine doğrudan kolonya dökülmelidir.", "E": "E) Sıcak su ile iyice ovulmalıdır." }, "dogruCevap": "B", "zorlukPuani": 75 }, 
+{ "id": "kimya-gemininb-soru9", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Atomun yapısında pozitif ve negatif yüklerin bulunduğunu, atomu pozitif yüklü bir küreye ve elektronları bu küre içine dağılmış taneciklere benzeten (üzümlü kek modeli) bilim insanı aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) John Dalton", "B": "B) J. J. Thomson", "C": "C) Ernest Rutherford", "D": "D) Niels Bohr", "E": "E) James Chadwick" }, "dogruCevap": "B", "zorlukPuani": 55 }, { "id": "kimya-gemininb-soru10", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Geliştirdiği alfa saçılma deneyi sonucunda atomun pozitif yükünün çekirdek adı verilen çok küçük bir hacimde toplandığını ortaya koyan bilim insanı kimdir?", "gorsel": "", "secenekler": { "A": "A) Ernest Rutherford", "B": "B) J. J. Thomson", "C": "C) John Dalton", "D": "D) Niels Bohr", "E": "E) Werner Heisenberg" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru11", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Atom çekirdeğindeki yüksüz tanecikler olan nötronların varlığı 1932 yılında hangi bilim insanı tarafından keşfedilmiştir?", "gorsel": "", "secenekler": { "A": "A) James Chadwick", "B": "B) Michael Faraday", "C": "C) Eugen Goldstein", "D": "D) Niels Bohr", "E": "E) Robert Boyle" }, "dogruCevap": "A", "zorlukPuani": 65 }, 
+{ "id": "kimya-gemininb-soru12", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Bohr atom modelinde elektronların sabit dairesel yörüngelerde döndüğü varsayımı, Modern Atom Teorisindeki hangi temel ilke ile doğrudan çelişir?", "gorsel": "", "secenekler": { "A": "A) Pauli dışlama ilkesi", "B": "B) Hund kuralı", "C": "C) Heisenberg belirsizlik ilkesi", "D": "D) Aufbau kuralı", "E": "E) Kütlenin korunumu kanunu" }, "dogruCevap": "C", "zorlukPuani": 75 }, { "id": "kimya-gemininb-soru13", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Modern atom teorisinde elektronların atom çekirdeği etrafında bulunma olasılığının yüksek olduğu üç boyutlu hacimsel bölgelere ne ad verilir?", "gorsel": "", "secenekler": { "A": "A) Yörünge", "B": "B) Çekirdek", "C": "C) Orbital", "D": "D) Katman", "E": "E) İyon küresi" }, "dogruCevap": "C", "zorlukPuani": 50 }, { "id": "kimya-gemininb-soru14", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Temel hâldeki elektronların eş enerjili orbitallere önce birer birer aynı spinle, daha sonra zıt spinli olarak eşleşerek yerleştiğini belirten kural hangisidir?", "gorsel": "", "secenekler": { "A": "A) Aufbau ilkesi", "B": "B) Hund kuralı", "C": "C) Pauli dışlama ilkesi", "D": "D) Heisenberg ilkesi", "E": "E) Avogadro kuralı" }, "dogruCevap": "B", "zorlukPuani": 70 }, 
+{ "id": "kimya-gemininb-soru15", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Elektronların orbitallere en düşük enerjili orbitalden başlayarak sırayla doldurulmasını ifade eden ilke aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Pauli ilkesi", "B": "B) Hund kuralı", "C": "C) Aufbau ilkesi", "D": "D) Avogadro ilkesi", "E": "E) Boyle kanunu" }, "dogruCevap": "C", "zorlukPuani": 65 }, 
+{ "id": "kimya-gemininb-soru16", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Elektron dizilimi 1s2 2s2 2p6 3s2 3p5 şeklinde biten nötr bir atomun periyodik tablodaki yeri aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) 2. periyot 5A grubu", "B": "B) 3. periyot 5A grubu", "C": "C) 3. periyot 7A grubu", "D": "D) 2. periyot 7A grubu", "E": "E) 3. periyot 8A grubu" }, "dogruCevap": "C", "zorlukPuani": 65 }, { "id": "kimya-gemininb-soru17", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Temel hâl elektron dizilimi d orbitali ile biten elementler periyodik tabloda genel olarak hangi grupta yer alırlar?", "gorsel": "", "secenekler": { "A": "A) A grubu (Ana grup elementleri)", "B": "B) B grubu (Geçiş elementleri)", "C": "C) Soy gazlar", "D": "D) Lantanitler", "E": "E) Alkali metaller" }, "dogruCevap": "B", "zorlukPuani": 60 }, { "id": "kimya-gemininb-soru18", "ders": "kimya", "konu": "periyodik_ozellikler", "soruMetni": "Periyodik tabloda aynı grupta yukarıdan aşağıya doğru inildikçe atom yarıçapı ve birinci iyonlaşma enerjisi genel olarak nasıl değişir?", "gorsel": "", "secenekler": { "A": "A) Atom yarıçapı artar, iyonlaşma enerjisi azalır.", "B": "B) Her ikisi de artar.", "C": "C) Atom yarıçapı azalır, iyonlaşma enerjisi artar.", "D": "D) Her ikisi de azalır.", "E": "E) Atom yarıçapı değişmez, iyonlaşma enerjisi artar." }, "dogruCevap": "A", "zorlukPuani": 65 }, 
+{ "id": "kimya-gemininb-soru19", "ders": "kimya", "konu": "periyodik_ozellikler", "soruMetni": "Nötr bir atom elektron vererek katyon oluşturduğunda tanecik yarıçapında nasıl bir değişim meydana gelir?", "gorsel": "", "secenekler": { "A": "A) Yarıçapı büyür.", "B": "B) Yarıçapı küçülür.", "C": "C) Yarıçapı değişmez.", "D": "D) Önce büyür sonra küçülür.", "E": "E) Proton sayısı azaldığı için yarıçapı iki katına çıkar." }, "dogruCevap": "B", "zorlukPuani": 55 }, 
+{ "id": "kimya-gemininb-soru20", "ders": "kimya", "konu": "kimya_gunluk", "soruMetni": "Günlük ev temizliğinde çamaşır suyu ile tuz ruhunun karıştırılması sonucu açığa çıkan ve zehirlenmelere yol açan gaz aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Oksijen gazı", "B": "B) Azot gazı", "C": "C) Klor gazı", "D": "D) Karbondioksit gazı", "E": "E) Hidrojen gazı" }, "dogruCevap": "C", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru22", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Plastikler, kauçuklar, fiberler, yapıştırıcılar ve teflon gibi makromoleküllerin sentezini ve özelliklerini inceleyen kimya disiplini aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Fizikokimya", "B": "B) Polimer Kimyası", "C": "C) Anorganik Kimya", "D": "D) Biyokimya", "E": "E) Analitik Kimya" }, "dogruCevap": "B", "zorlukPuani": 55 }, 
+{ "id": "kimya-gemininb-soru26", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Canlı dokulara temas ettiğinde aşındırıcı ve yakıcı etki gösteren, metalleri tahrip edebilen maddelerin etiketinde hangi risk piktogramı yer alır?", "gorsel": "", "secenekler": { "A": "A) Korozif (Aşındırıcı) Madde", "B": "B) Patlayıcı Madde", "C": "C) Radyoaktif Madde", "D": "D) Zehirli (Toksik) Madde", "E": "E) Çevreye Zararlı Madde" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru28", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Maddenin içi dolu, parçalanamaz kürelerden oluştuğunu ve bir elementin tüm atomlarının kütle ile şekil bakımından özdeş olduğunu öne süren ilk bilimsel atom teorisi kime aittir?", "gorsel": "", "secenekler": { "A": "A) John Dalton", "B": "B) J. J. Thomson", "C": "C) Ernest Rutherford", "D": "D) Niels Bohr", "E": "E) Democritus" }, "dogruCevap": "A", "zorlukPuani": 55 }, { "id": "kimya-gemininb-soru29", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "İmbik cihazını geliştirerek nitrik asit, sülfürik asit ve kral suyunu elde eden, kimyanın babası kabul edilen ünlü İslam alimi kimdir?", "gorsel": "", "secenekler": { "A": "A) Cabir bin Hayyan", "B": "B) Ebû Bekir er-Râzî", "C": "C) İbni Sina", "D": "D) Biruni", "E": "E) Farabi" }, "dogruCevap": "A", "zorlukPuani": 65 }, { "id": "kimya-gemininb-soru30", "ders": "kimya", "konu": "atom_teorileri", "soruMetni": "Deneylerinde hassas terazi kullanarak kimyasal tepkimelerde kütlenin korunduğunu kanıtlayan ve yanma olayında oksijenin rolünü açıklayan bilim insanı kimdir?", "gorsel": "", "secenekler": { "A": "A) Antoine Lavoisier", "B": "B) Robert Boyle", "C": "C) Amedeo Avogadro", "D": "D) Joseph Proust", "E": "E) Michael Faraday" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru31", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Tüm temel enerji seviyelerinde bulunan ve çekirdek etrafında küresel bir simetriye sahip olan orbital türü aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) s orbitali", "B": "B) p orbitali", "C": "C) d orbitali", "D": "D) f orbitali", "E": "E) g orbitali" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "kimya-gemininb-soru32", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "İkinci temel enerji seviyesinden itibaren başlayan ve yönelimlerine göre x, y, z eksenleri üzerinde üç özdeş alt alt seviyeden oluşan orbital türü hangisidir?", "gorsel": "", "secenekler": { "A": "A) s orbitali", "B": "B) p orbitali", "C": "C) d orbitali", "D": "D) f orbitali", "E": "E) g orbitali" }, "dogruCevap": "B", "zorlukPuani": 55 }, { "id": "kimya-gemininb-soru33", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Bir atomda aynı orbitalde bulunan iki elektronun dönüş yönlerinin zıt olması gerektiğini ifade eden ilke aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Pauli dışlama ilkesi", "B": "B) Aufbau kuralı", "C": "C) Hund kuralı", "D": "D) Heisenberg ilkesi", "E": "E) Octet kuralı" }, "dogruCevap": "A", "zorlukPuani": 65 }, { "id": "kimya-gemininb-soru34", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Son katmanındaki orbitalleri tam dolu veya yarı dolu olan atomların gösterdiği, atoma ekstra kararlılık kazandıran özellik aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Küresel simetri", "B": "B) İyonlaşma", "C": "C) Elektronegatiflik", "D": "D) Amfoterlik", "E": "E) İzotopik yapı" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru35", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Elementleri artan atom numaralarına (proton sayılarına) göre sıralayarak günümüzdeki periyodik tablonun temelini atan bilim insanı kimdir?", "gorsel": "", "secenekler": { "A": "A) Henry Moseley", "B": "B) Dimitri Mendeleyev", "C": "C) John Newlands", "D": "D) Lothar Meyer", "E": "E) Johann Döbereiner" }, "dogruCevap": "A", "zorlukPuani": 65 }, { "id": "kimya-gemininb-soru36", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Periyodik tabloda d bloğunda yer alan ve tamamı metallerden oluşan element grubu aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Geçiş metalleri", "B": "B) Alkali metaller", "C": "C) Toprak alkali metaller", "D": "D) Halojenler", "E": "E) Soy gazlar" }, "dogruCevap": "A", "zorlukPuani": 55 }, { "id": "kimya-gemininb-soru37", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Elektron sayıları ve elektron dizilimleri aynı, proton sayıları farklı olan taneciklere ne ad verilir?", "gorsel": "", "secenekler": { "A": "A) İzoelektronik tanecikler", "B": "B) İzotop atomlar", "C": "C) İzobar atomlar", "D": "D) İzoton atomlar", "E": "E) Alotrop maddeler" }, "dogruCevap": "A", "zorlukPuani": 60 }, { "id": "kimya-gemininb-soru38", "ders": "kimya", "konu": "periyodik_ozellikler", "soruMetni": "Periyodik tabloda bağ elektronlarını kendine çekme gücü (elektronegatiflik) en yüksek olan element aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Flor (F)", "B": "B) Klor (Cl)", "C": "C) Oksijen (O)", "D": "D) Sodyum (Na)", "E": "E) Fransiyum (Fr)" }, "dogruCevap": "A", "zorlukPuani": 65 }, 
+{ "id": "kimya-gemininb-soru39", "ders": "kimya", "konu": "periyodik_ozellikler", "soruMetni": "Aynı periyotta soldan sağa doğru gidildikçe iyonlaşma enerjisinin Genel Sıralaması (1A &lt; 3A &lt; 2A &lt; 4A &lt; 6A &lt; 5A &lt; 7A &lt; 8A) şeklindedir. 2A grubunun 3A grubundan daha yüksek iyonlaşma enerjisine sahip olmasının temel nedeni nedir?", "gorsel": "", "secenekler": { "A": "A) 2A grubunun küresel simetrik elektron dizilimine sahip olması", "B": "B) 3A grubunun metal olmaması", "C": "C) 2A grubunun kütle numarasının büyük olması", "D": "D) 3A grubunun yarıçapının daha büyük olması", "E": "E) 2A grubunun amfoter özellik göstermesi" }, "dogruCevap": "A", "zorlukPuani": 75 }, 
+{ "id": "kimya-gemininb-soru40", "ders": "kimya", "konu": "kimya_gunluk", "soruMetni": "Kimyasal, biyolojik, radyolojik ve nükleer tehditlerin tespiti ile bunlara karşı korunma stratejilerini ifade eden kısaltma aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) KBRN", "B": "B) AFAD", "C": "C) TÜBİTAK", "D": "D) IUPAC", "E": "E) TENMAK" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "kimya-gemininb-soru21", "ders": "kimya", "konu": "kimya_alt_disiplin", "soruMetni": "Asitler, bazlar, tuzlar, metaller ve mineraller gibi organik olmayan bileşiklerin yapısını, özelliklerini ve tepkimelerini inceleyen kimya alt disiplini aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Anorganik Kimya", "B": "B) Organik Kimya", "C": "C) Biyokimya", "D": "D) Analitik Kimya", "E": "E) Fizikokimya" }, "dogruCevap": "A", "zorlukPuani": 50 }, { "id": "kimya-gemininb-soru23", "ders": "kimya", "konu": "kimya_kariyer", "soruMetni": "Hasar gören DNA ların hücreler tarafından onarımı konusundaki çalışmalarıyla 2015 Nobel Kimya Ödülü nü kazanan ve bu ödülü alan ilk Türk bilim insanı kimdir?", "gorsel": "", "secenekler": { "A": "A) Oktay Sinanoğlu", "B": "B) Aziz Sancar", "C": "C) Gazi Yaşargil", "D": "D) Cahit Arf", "E": "E) Feza Gürsey" }, "dogruCevap": "B", "zorlukPuani": 50 }, 
+{ "id": "kimya-gemininb-soru24", "ders": "kimya", "konu": "kimya_kariyer", "soruMetni": "Üniversitelerin iki yıllık kimya teknolojisi ön lisans programını tamamlayan mezunlar aşağıdaki ünvanlardan hangisini alırlar?", "gorsel": "", "secenekler": { "A": "A) Kimyager", "B": "B) Kimya Mühendisi", "C": "C) Kimya Teknikeri", "D": "D) Polimer Mühendisi", "E": "E) Metalurji Mühendisi" }, "dogruCevap": "C", "zorlukPuani": 60 }, { "id": "kimya-gemininb-soru25", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Çevresine görünmez ışınlar yayarak canlı dokularda kalıcı hasarlara ve genetik bozulmalara yol açabilen kimyasal maddelerin üzerinde bulunan güvenlik uyarı sembolü hangisidir?", "gorsel": "", "secenekler": { "A": "A) Patlayıcı Madde", "B": "B) Korozif Madde", "C": "C) Radyoaktif Madde", "D": "D) Oksitleyici Madde", "E": "E) Yanıcı Madde" }, "dogruCevap": "C", "zorlukPuani": 55 },
+{ "id": "kimya-gemininb-soru27", "ders": "kimya", "konu": "kimya_guvenlik", "soruMetni": "Çözeltilerin hazırlanması, karıştırılması, aktarılması ve ısıtılması işlemlerinde yaygın olarak kullanılan silindir şeklindeki cam malzeme aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Beherglas", "B": "B) Büret", "C": "C) Ayırma Hunisi", "D": "D) Balon Joje", "E": "E) Termometre" }, "dogruCevap": "A", "zorlukPuani": 50 },  
+{ "id": "kimya-gemininb-soru34", "ders": "kimya", "konu": "atom_orbitalleri", "soruMetni": "Son katmanındaki orbitalleri tam dolu veya yarı dolu olan atomların gösterdiği, atoma ekstra kararlılık kazandıran özellik aşağıdakilerden hangisidir?", "gorsel": "", "secenekler": { "A": "A) Küresel simetri", "B": "B) İyonlaşma", "C": "C) Elektronegatiflik", "D": "D) Amfoterlik", "E": "E) İzotopik yapı" }, "dogruCevap": "A", "zorlukPuani": 60 }, 
+{ "id": "kimya-gemininb-soru37", "ders": "kimya", "konu": "periyodik_yer", "soruMetni": "Elektron sayıları ve elektron dizilimleri aynı, proton sayıları farklı olan taneciklere ne ad verilir?", "gorsel": "", "secenekler": { "A": "A) İzoelektronik tanecikler", "B": "B) İzotop atomlar", "C": "C) İzobar atomlar", "D": "D) İzoton atomlar", "E": "E) Alotrop maddeler" }, "dogruCevap": "A", "zorlukPuani": 60 }, {
+    "id": "kimya-ogm-test1-soru1",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "Aşağıdakilerden hangisi simyadan kimyaya aktarılan bulgulardan değildir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Cam üretimi",
+      "B": "B) Kan örneğinin analizi",
+      "C": "C) Boyar maddelerin hazırlanması",
+      "D": "D) Mürekkep üretimi",
+      "E": "E) Metallerden alaşım eldesi"
+    },
+    "dogruCevap": "B",
+    "zorlukPuani": 30
+  },
+  {
+    "id": "kimya-ogm-test1-soru2",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "I. Karıştırma\nII. Süzme\nIII. Damıtma\nYukarıda verilen yöntemlerden hangileri simyadan kimyaya aktarılan yöntemlerdendir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Yalnız I",
+      "B": "B) Yalnız II",
+      "C": "C) Yalnız III",
+      "D": "D) I ve II",
+      "E": "E) I, II ve III"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 20
+  },
+  {
+    "id": "kimya-ogm-test1-soru3",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "\"Element; kendisinden daha basit maddeye ayrılmayan ve aynı türdeki taneciklerden oluşan saf maddedir.\" Tanımını ilk yapan kişi kimdir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Robert Boyle",
+      "B": "B) John Dalton",
+      "C": "C) Aristo",
+      "D": "D) Democritos",
+      "E": "E) Cabir bin Hayyan"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 40
+  },
+  {
+    "id": "kimya-ogm-test1-soru4",
+    "ders": "kimya",
+    "konu": "kimya_guvenlik",
+    "soruMetni": "Kimyada güvenlik önlemleri ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Cıva vücut ile temas ettiğinde toksik etki gösterir.",
+      "B": "B) Amonyak deri ve solunum yolunda tahrişe yol açan çok zehirli bir gazdır.",
+      "C": "C) Hidroklorik asit başka temizlik maddeleriyle karıştırıldığında yakıcı ve zehirleyici özelliği artarak ölüme yol açabilir.",
+      "D": "D) Aseton kolayca tutuşabilen özelliğe sahiptir.",
+      "E": "E) Etil alkol deri ile temasında derin yanıklara neden olur."
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 35
+  },
+  {
+    "id": "kimya-ogm-test1-soru5",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "",
+    "gorsel": "data/images/kimya/kimya-ogm-test1-soru5.png",
+    "secenekler": {
+      "A": "A) I.a, II.b, III.c",
+      "B": "B) I.b, II.a, III.c",
+      "C": "C) I.c, II.b, III.a",
+      "D": "D) I.a, II.c, III.b",
+      "E": "E) I.c, II.a, III.b"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 45
+  },
+  {
+    "id": "kimya-ogm-test1-soru6",
+    "ders": "kimya",
+    "konu": "kimya_guvenlik",
+    "soruMetni": "Solunduğunda, yutulduğunda ve cilde temas ettiğinde sağlığa zarar verebilen anlamına gelen uyarı-güvenlik işareti aşağıdakilerden hangisidir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "<img src='data/images/kimya/kimya-ogm-test1-soru6a.png'>",
+      "B": "<img src='data/images/kimya/kimya-ogm-test1-soru6b.png'>",
+      "C": "<img src='data/images/kimya/kimya-ogm-test1-soru6c.png'>",
+      "D": "<img src='data/images/kimya/kimya-ogm-test1-soru6d.png'>",
+      "E": "<img src='data/images/kimya/kimya-ogm-test1-soru6e.png'>"
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 30
+  },
+  {
+    "id": "kimya-ogm-test1-soru7",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "Aşağıdaki buluşlardan hangisi simyacılara ait değildir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Maydanoz, ısırgan otu, rezene gibi bitkilerin hastalık tedavisinde kullanılması",
+      "B": "B) Yün ve ipekten iplik elde edilmesi",
+      "C": "C) Camın keşfedilmesi",
+      "D": "D) Polimer ürünlerin elde edilmesi",
+      "E": "E) Alaşımların elde edilmesi"
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 25
+  },
+  {
+    "id": "kimya-ogm-test1-soru8",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "",
+    "gorsel": "data/images/kimya/kimya-ogm-test1-soru8.png",
+    "secenekler": {
+      "A": "A) I ve II.",
+      "B": "B) I ve IV.",
+      "C": "C) II ve IV.",
+      "D": "D) II, III ve IV.",
+      "E": "E) I, II, III ve IV."
+    },
+    "dogruCevap": "E",
+    "zorlukPuani": 40
+  },
+  {
+    "id": "kimya-ogm-test1-soru9",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "Aşağıdakilerden hangisi simyanın kimyaya katkılarından biridir?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Basit damıtma, kristallendirme gibi yöntemler",
+      "B": "B) Röntgen çekimi",
+      "C": "C) Pil üretimi",
+      "D": "D) Teflon gibi polimer ürünlerin eldesi",
+      "E": "E) Nanoteknoloji ile kumaş üretimi"
+    },
+    "dogruCevap": "A",
+    "zorlukPuani": 20
+  },
+  {
+    "id": "kimya-ogm-test1-soru10",
+    "ders": "kimya",
+    "konu": "kimya_gunluk",
+    "soruMetni": "Simyacılara ve kimyacılarla ilgili verilen bilgilerden hangisi yanlıştır?",
+    "gorsel": "",
+    "secenekler": {
+      "A": "A) Aristo; bütün maddelerin toprak, hava, su ve ateş olarak dört ana elementten oluştuğunu söylemiştir.",
+      "B": "B) Cabir bin Hayyan; çalışmaları sonucu nitrik asit, hidroklorik asit ve kral suyunu keşfetmiştir.",
+      "C": "C) İbn-i Sina; metallerin birbirine dönüşemeyeceğini söylemiş ve tıp alanında çalışmalar yapmıştır.",
+      "D": "D) Demokritos; evrenin atomlardan oluştuğunu, çeşitli tipte atomlar olduğu için maddelerin farklılığının bu birleşmelerin farklı olmasından kaynaklandığını ispatlamıştır.",
+      "E": "E) Robert Boyle; ayrıştırılamayan maddeleri element olarak tanımlamıştır."
+    },
+    "dogruCevap": "D",
+    "zorlukPuani": 50
+  }
+]
